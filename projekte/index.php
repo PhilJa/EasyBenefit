@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Projekte | EasyBenefit.de</title>
+    <title>Projekte | EasyBenefit</title>
 
     <!-- CSS -->
     <link href="/style/css/bootstrap.min.css" rel="stylesheet">
@@ -147,8 +147,8 @@
               <div class="projectcard">
                 <img class="img-responsive" src="/style/img/projekte/projectcard-tierschutz.png" />
                 <div class="projectdescription">
-                  <h1>Tierschutz</h1>
-                  <p>Wir sind aktuell noch auf der Suche nach einem geeigenten Projekt.</br>Vorschläge oder Bewerbungen können gerne an info@easybenefit.de gerichtet werden.</p>
+                  <h1>Tierschutz</br><span>Projektsuche</span></h1>
+                  <p>Wir sind aktuell noch auf der Suche nach einem geeigenten Projekt. Vorschläge oder Bewerbungen können gerne an info@easybenefit.de gerichtet werden.</p>
                 </div>
                 <div class="progress-description">
                   Aktuell: <?php echo number_format($tiere,2,",","."); ?>€

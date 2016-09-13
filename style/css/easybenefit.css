@@ -340,7 +340,7 @@ footer .bottom>.container {
 		font-size: 14px;
 		color: #656565;
 }
-@media (max-width: 767px) {
+@media (max-width: 991px) {
 	.navbar-nav>li>a {
 	    line-height: 24px;
 	}

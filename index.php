@@ -39,7 +39,7 @@
     <div class="container">
       <h1 class="eb-heading"><span>Beliebte Shops</span></h1>
       <div class="row">
-        <div class="col-md-2 col-sm-4 col-xs-6">
+        <div class="col-md-2 col-sm-3 col-xs-4">
           <a data-toggle="modal" data-target="#modalamazon">
             <div class="shopcard">
               <div class="shopimg">
@@ -49,7 +49,7 @@
             </div>
           </a>
         </div>
-        <div class="col-md-2 col-sm-4 col-xs-6">
+        <div class="col-md-2 col-sm-3 col-xs-4">
           <a data-toggle="modal" data-target="#modalbahn">
             <div class="shopcard">
               <div class="shopimg">
@@ -60,7 +60,7 @@
             </div>
           </a>
         </div>
-        <div class="col-md-2 col-sm-4 col-xs-6">
+        <div class="col-md-2 col-sm-3 col-xs-4">
           <a data-toggle="modal" data-target="#modaldocmorris">
             <div class="shopcard">
               <div class="shopimg">
@@ -71,7 +71,7 @@
             </div>
           </a>
         </div>
-        <div class="col-md-2 col-sm-4 col-xs-6">
+        <div class="col-md-2 col-sm-3 col-xs-4">
           <a data-toggle="modal" data-target="#modalmydays">
             <div class="shopcard">
               <div class="shopimg">
@@ -82,7 +82,7 @@
             </div>
           </a>
         </div>
-        <div class="col-md-2 col-sm-4 col-xs-6">
+        <div class="col-md-2 hidden-sm col-xs-4">
           <a data-toggle="modal" data-target="#modalrunnerspoint">
             <div class="shopcard">
               <div class="shopimg">
@@ -93,7 +93,7 @@
             </div>
           </a>
         </div>
-        <div class="col-md-2 col-sm-4 col-xs-6">
+        <div class="col-md-2 hidden-sm col-xs-4">
           <a data-toggle="modal" data-target="#modalflaconi">
             <div class="shopcard">
               <div class="shopimg">
@@ -112,8 +112,8 @@
     <div class="container">
       <h1 class="#">So funktioniert's</h1>
       <p class="#">
-        Kostenlos Spenden mit jedem Online-Einkauf.</br>
-        Mit nur drei einfachen Schritten kannst du dabei helden, die Welt ein bisschen besser zu machen.
+        Spende kostenlos mit jedem Onlineeinkauf.</br>
+        Mit nur 3 einfachen Schritten machst du aus deinem Einkauf eine gute Tat.
       </p>
       <div class="row">
 				<div class="col-md-4 col-sm-12">
@@ -121,10 +121,10 @@
 						<i class="fa fa-shopping-cart fa-4x"></i>
 					</div>
 					<div class="funktion-txt">
-						<h2>Shop auswählen</h2>
+						<h2>1. Shop auswählen</h2>
 						<p>
-							Wähle einen Online-Shop aus der Liste unserer Partnershops.
-							Wir arbeiten bereits mit vielen bekannten Shops zusammen und regelmäßig kommen neue dazu.
+							Wähle deinen Onlineshop aus der Liste unserer Partnershops.
+							Wir arbeiten bereits mit über 75+ Shops zusammen und regelmäßig kommen neue dazu.
 							Für jeden Bedarf ist etwas dabei!
 						</p>
 					</div>
@@ -134,8 +134,8 @@
 						<i class="fa fa-users fa-4x"></i>
 					</div>
 					<div class="funktion-txt">
-						<h2>Kategorie aussuchen</h2>
-						<p>Entscheide selbst, für welche Kategorie du spenden möchtest. Egal ob Kinderhilfe, Naturschutz, Gesundheit oder mehr.</p>
+						<h2>2. Spendenziel aussuchen</h2>
+						<p>Du entscheidest für was du spenden möchtest. Um dir die Auswahl zu erleichtern, sammeln wir spenden in neun übersichtlichen Kategorien. Z.B. Kinderhilfe, Naturschutz oder Gesundheit.</p>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-12">
@@ -143,10 +143,10 @@
 						<i class="fa fa-heart fa-4x"></i>
 					</div>
 					<div class="funktion-txt">
-						<h2>Shoppen & Gutes tun</h2>
+						<h2>3. Shoppen & Gutes tun</h2>
 						<p>
-							Nach der Auswahl wirst du direkt zu deinem Shop weitergeleitet und musst dich um nichts mehr kümmern.
-							Nach deinem Einkauf erhalten wir eine Provision vom jeweiligen Shop und verteilen diese, deiner Kategorieauswahl entsprechend, weiter.
+							Nach deiner Auswahl leiten wir dich direkt weiter. Du musst nichts weiter tun, als wie gewohnt einzukaufen.
+							Dank deines Einkaufes erhalten wir eine Provision, welche wir an ein passendes gemeinnütziges Projekt weiterleiten.
 						</p>
 					</div>
 				</div>
@@ -156,8 +156,8 @@
 
   <section id="home-progress">
     <div class="container">
-      <h1 class="#"><b><?php echo number_format($gesamt,2,",","."); ?> €</b></br>Aktueller Spendenstand</h1>
-      <h2 class="#">Gemeinsam können wir die Welt ein bisschen besser machen!</h1>
+      <h1 class="#"><b><?php echo number_format($gesamt,2,",","."); ?> €</b></br>Gesamt Spendenstand</h1>
+      <h2 class="#">WOW! Danke für eine Unterstützung, weiter so.</h1>
     </div>
   </section>
 
@@ -240,11 +240,8 @@
 
   <!-- Footer --><?php include "style/common/footer.php" ?>
 
-  <!-- jQuery -->
-  <script src="/style/js/jquery.js"></script>
-  <!-- Bootstrap Core JavaScript -->
-  <script src="/style/js/bootstrap.min.js"></script>
-
+  <!-- jQuery --><script src="/style/js/jquery.js"></script>
+  <!-- Bootstrap Core JavaScript --><script src="/style/js/bootstrap.min.js"></script>
 
 <!-- Modals -->
 <div class="modal fade" id="modalamazon" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
