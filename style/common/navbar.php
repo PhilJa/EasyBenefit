@@ -10,7 +10,7 @@
         <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand" href="/">
-        <img alt="EasyBenefit.de | Online einkaufen & Gutes tun." src="/style/img/navbar-logo.png">
+        <img alt="EasyBenefit.de | Online einkaufen & Gutes tun." src="/style/img/navbar-logo.png" alt="Logo Easybenefit">
       </a>
     </div>
     <!-- Collect the nav links, forms, and other content for toggling -->

@@ -19,7 +19,7 @@
         </div>
         <div class="col-md-3 col-sm-5 col-xs-12">
           <h1><span>Kontakt:</span><h1>
-          <img class="img-responsive" alt="EasyBenefit.de | Online einkaufen & Gutes tun." src="/style/img/logo_footer.png">
+          <img class="img-responsive" src="/style/img/logo_footer.png" alt="Logo Easybenefit weiß">
           <p><b>EasyBenefit gUG (haftungsbeschränkt)</b></br>Kleinfeldstraße 13</br>68165 Mannheim<p>
           <p><i class="fa fa-fw fa-envelope-o" aria-hidden="true"></i> <a href="mailto:info@easybenefit.de">info@easybenefit.de</a> </br><i class="fa fa-fw fa-globe" aria-hidden="true"></i><a href="/"> www.easybenefit.de</a></p>
         </div>

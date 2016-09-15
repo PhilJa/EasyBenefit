@@ -42,7 +42,7 @@
           <p>
             <b>EasyBenefit gemeinnützige UG (haftungsbeschränkt)</b></br>Kleinfeldstraße 13</br>68165 Mannheim</br></br>
             <b>E-Mail:</b><a href="mailto:info@easybenefit.de"> info@easybenefit.de</a></br><b>Webseite:</b><a href="/"> www.easybenefit.de</a></br></br>
-            Amtsgericht Mannheim</br>HRB 725585</br>USt-ID: (ausstehend)</br>Geschäftsführer: Philipp Jawny</br></br>
+            Amtsgericht Mannheim</br>HRB 725585</br>USt-ID: DE307699159</br>Geschäftsführer: Philipp Jawny</br></br>
           </p>
           <h2 class="eb-heading"><span>Haftungsausschluss und Urheberschutz</span></h2>
           <p>Auf dieser Homepage sind Links zu anderen Seiten im Internet zu finden. Für diese gilt:</br></br>
