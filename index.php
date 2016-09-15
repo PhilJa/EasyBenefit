@@ -111,7 +111,7 @@
 
   <section id="home-funktion" class="akzent border">
     <div class="container">
-      <h1 class="#">So funktioniert's</h1>
+      <h1 class="akzent">So funktioniert's</h1>
       <p>Spende kostenlos mit jedem Onlineeinkauf.</br>Mit nur 3 einfachen Schritten machst du aus deinem Einkauf eine gute Tat.</p>
       <div class="row">
 				<div class="col-md-4 col-sm-12">
@@ -149,13 +149,14 @@
 					</div>
 				</div>
 			</div>
+      <a role="button" class="btn btn-blue" href="/so-funktionierts" alt="Woher kommen die Spenden? Wie kann ich mitmachen?">Noch mehr erfahren</a>
     </div>
   </section>
 
   <section id="home-progress">
     <div class="container">
-      <h1><b><?php echo number_format($gesamt,2,",","."); ?> €</b></br>Gesamt Spendenstand</h1>
-      <h2>WOW! Danke für eine Unterstützung, weiter so.</h1>
+      <h1><b>Gemeinsam bisher gesammelt:</br><?php echo number_format($gesamt,2,",","."); ?> €</b></h1>
+      <h2>WOW! Danke für eure Unterstützung, weiter so.</h1>
     </div>
   </section>
 

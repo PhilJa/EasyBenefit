@@ -20,6 +20,8 @@ section.border {
   border-bottom: 1px solid #ccc;}
 section.akzent {
   background-color: #f9f9f9;}
+section.akzent h1.akzent{
+	color: #336ba8;}
 section.nopadding {
   padding: 0px;}
 
@@ -390,7 +392,7 @@ section#home-progress {
 	margin: 0 !important;
 }
 .modal-body .projectcard .projectdescription h1>span{
-	font-size: 12px !important;
+	font-size: 15px !important;
 }
 .projectcard {
 	border: 1px solid #cdcdcd;

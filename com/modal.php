@@ -1,4 +1,4 @@
-<div class="modal-dialog" role="document">
+<div class="modal-dialog modal-lg" role="document">
   <div class="modal-content">
     <div class="modal-header" style="background-color:
       <?php if($shop == "mydays") {echo "#CE0040";}
@@ -90,9 +90,9 @@
             elseif($shop == "schalke") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14980&type=b21&bnb=21&subid=kinder";}
           ?>'/>
             <div class="projectcard">
-              <img class="img-responsive" src="/style/img/projekte/projectcard-kinderhilfe-modal.png" />
+              <img class="img-responsive" src="/style/img/projekte/projectcard-kinderhilfe-modal.png" alt="Spende für das aktuelle Kinderhilfsprojekt auf EasyBenefit.de"/>
               <div class="projectdescription">
-                <h1>Kinderhilfe</br><span>MATUMAINI for africa e.V.</span></h1>
+                <h1><span>MATUMAINI for africa e.V.</span></h1>
               </div>
               <div class="progress">
                 <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: <?php echo number_format($prokinder,0) ?>%;">
@@ -156,9 +156,9 @@
     				elseif($shop == "schalke") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14980&type=b21&bnb=21&subid=senioren";}
           ?>'/>
             <div class="projectcard">
-              <img class="img-responsive" src="/style/img/projekte/projectcard-seniorenhilfe-modal.png" />
+              <img class="img-responsive" src="/style/img/projekte/projectcard-seniorenhilfe-modal.png" alt="Spende für das aktuelle Seniorenhilfsprojekt auf EasyBenefit.de"/>
               <div class="projectdescription">
-                <h1>Seniorenhilfe</br><span>Projektsuche</span></h1>
+                <h1><span>Projektsuche</span></h1>
               </div>
               <div class="progress">
                 <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: <?php echo number_format($prosenioren,0) ?>%;">
@@ -222,9 +222,9 @@
     				elseif($shop == "schalke") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14980&type=b21&bnb=21&subid=tiere";}
           ?>'/>
             <div class="projectcard">
-              <img class="img-responsive" src="/style/img/projekte/projectcard-tierschutz-modal.png" />
+              <img class="img-responsive" src="/style/img/projekte/projectcard-tierschutz-modal.png" alt="Spende für das aktuelle Tierschutzprojekt auf EasyBenefit.de"/>
               <div class="projectdescription">
-                <h1>Tierschutz</br><span>Projektsuche</span></h1>
+                <h1><span>Projektsuche</span></h1>
               </div>
               <div class="progress">
                 <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: <?php echo number_format($protiere,0) ?>%;">
@@ -290,9 +290,9 @@
     				elseif($shop == "schalke") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14980&type=b21&bnb=21&subid=natur";}
           ?>'/>
             <div class="projectcard">
-              <img class="img-responsive" src="/style/img/projekte/projectcard-naturschutz-modal.png" />
+              <img class="img-responsive" src="/style/img/projekte/projectcard-naturschutz-modal.png" alt="Spende für das aktuelle Naturschutzprojekt auf EasyBenefit.de"/>
               <div class="projectdescription">
-                <h1>Naturschutz</br><span>Projektsuche</span></h1>
+                <h1><span>Projektsuche</span></h1>
               </div>
               <div class="progress">
                 <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: <?php echo number_format($pronatur,0) ?>%;">
@@ -356,9 +356,9 @@
     				elseif($shop == "schalke") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14980&type=b21&bnb=21&subid=entwicklung";}
           ?>'/>
             <div class="projectcard">
-              <img class="img-responsive" src="/style/img/projekte/projectcard-entwicklungshilfe-modal.png" />
+              <img class="img-responsive" src="/style/img/projekte/projectcard-entwicklungshilfe-modal.png" alt="Spende für das aktuelle Entwicklungshilfsprojekt auf EasyBenefit.de"/>
               <div class="projectdescription">
-                <h1>Entwicklungshilfe</br><span>Projektsuche</span></h1>
+                <h1><span>Projektsuche</span></h1>
               </div>
               <div class="progress">
                 <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: <?php echo number_format($proentwicklung,0) ?>%;">
@@ -422,9 +422,9 @@
     				elseif($shop == "schalke") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14980&type=b21&bnb=21&subid=gesundheit";}
           ?>'/>
             <div class="projectcard">
-              <img class="img-responsive" src="/style/img/projekte/projectcard-gesundheit-modal.png" />
+              <img class="img-responsive" src="/style/img/projekte/projectcard-gesundheit-modal.png" alt="Spende für das aktuelle Gesundheitsprojekt auf EasyBenefit.de"/>
               <div class="projectdescription">
-                <h1>Gesundheit</br><span>Projektsuche</span></h1>
+                <h1><span>Projektsuche</span></h1>
               </div>
               <div class="progress">
                 <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: <?php echo number_format($progesundheit,0) ?>%;">
@@ -490,9 +490,9 @@
     				elseif($shop == "schalke") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14980&type=b21&bnb=21&subid=bildung";}
           ?>'/>
             <div class="projectcard">
-              <img class="img-responsive" src="/style/img/projekte/projectcard-bildung-modal.png" />
+              <img class="img-responsive" src="/style/img/projekte/projectcard-bildung-modal.png" alt="Spende für das aktuelle Bildungsprojekt auf EasyBenefit.de"/>
               <div class="projectdescription">
-                <h1>Bildung</br><span>Projektsuche</span></h1>
+                <h1><span>Projektsuche</span></h1>
               </div>
               <div class="progress">
                 <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: <?php echo number_format($probildung,0) ?>%;">
@@ -556,9 +556,9 @@
     				elseif($shop == "schalke") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14980&type=b21&bnb=21&subid=armut";}
           ?>'/>
             <div class="projectcard">
-              <img class="img-responsive" src="/style/img/projekte/projectcard-armut-modal.png" />
+              <img class="img-responsive" src="/style/img/projekte/projectcard-armut-modal.png" alt="Spende jetzt kostenlos für ein Projekt im Bereich Armutsbekämpfung"/>
               <div class="projectdescription">
-                <h1>Armut</br><span>Projektsuche</span></h1>
+                <h1><span>Projektsuche</span></h1>
               </div>
               <div class="progress">
                 <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: <?php echo number_format($proarmut,0) ?>%;">
@@ -622,9 +622,9 @@
     				elseif($shop == "schalke") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14980&type=b21&bnb=21&subid=sport";}
           ?>'/>
             <div class="projectcard">
-              <img class="img-responsive" src="/style/img/projekte/projectcard-sportsoziales-modal.png" />
+              <img class="img-responsive" src="/style/img/projekte/projectcard-sportsoziales-modal.png" alt="Spende jetzt kostenlos für ein Projekt im Bereich Sport & Soziales"/>
               <div class="projectdescription">
-                <h1>Sport & Soziales</br><span>Projektsuche</span></h1>
+                <h1><span>Projektsuche</span></h1>
               </div>
               <div class="progress">
                 <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: <?php echo number_format($prosport,0) ?>%;">
