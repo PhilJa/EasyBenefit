@@ -27,6 +27,8 @@ section.nopadding {
 
 .img-center {
 	margin: 0 auto;}
+.smallerpadding {
+	padding: 0 10px;}
 
 .btn {
 	border-radius: 2px !important;
@@ -462,11 +464,13 @@ section#home-progress {
 }
 
 .shopcard {
-	margin-bottom: 30px;
+	margin-bottom: 20px;
 }
 .shopcard:hover {
 	box-shadow: 2px 2px 5px #cdcdcd;
   cursor: pointer;
+	margin-top: -5px;
+	margin-bottom: 25px;
 }
 .shopcard .shopimg {
 	width: 100%;
@@ -492,4 +496,17 @@ section#home-progress {
 .shopcard .shop-description .info:hover {
 	color: #1d2c4e;
 	text-shadow: 1px 1px 2px #cdcdcd;
+}
+
+/* Seite So funktionierts */
+section#funktion-steps h2{
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
+section#funktion-steps p{
+	text-align: center;
+}
+section#funktion-geld h3{
+	font-size: 18px;
 }

@@ -26,7 +26,7 @@
           <a href="/projekte">Projekte</a>
         </li>
         <li>
-          <a href="/funktion">So funktioniert's</a>
+          <a href="/so-funktionierts">So funktioniert's</a>
         </li>
         <li>
           <a href="/kontakt">Kontakt</a>

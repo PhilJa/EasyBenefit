@@ -31,7 +31,7 @@
   <section class="nopadding">
     <div class="container-fluid">
       <div class="row">
-          <img class="img-responsive" src="/style/img/header/header_009.png" alt="Mit EasyBenefit einfach kostenlos spenden"/>
+          <img class="img-responsive" src="/style/img/header/header_home.jpg" alt="EasyBenefit.de | Gutes tun mit jedem Onlineeinkauf"/>
       </div><!-- /.row -->
     </div><!-- /.container -->
   </section><!-- /section -->
@@ -54,7 +54,7 @@
           <a data-toggle="modal" data-target="#modalbahn" title="Spende mit dem Kauf von Bahn Tickets">
             <div class="shopcard">
               <div class="shopimg">
-                <img class="img-responsive" src="/style/img/shops/002.png" alt="Bahn Tickets kaufen und kostenlos spenden"/>
+                <img class="img-responsive" src="/style/img/shops/002.jpg" alt="Bahn Tickets kaufen und kostenlos spenden"/>
               </div>
                 <div class="shop-description">1-5 €<span class="pull-right"><a class="info" href="#"><i class="fa fa-info-circle" aria-hidden="true"></i></a></span>
               </div>

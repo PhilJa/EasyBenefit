@@ -34,7 +34,7 @@
     </div>
     <div class="modal-body">
       <h2 class="eb-heading"><span>Kategorieauswahl<span></h2>
-      <p>Wähle eine Kategorie / ein Projekt, dass mit deinem Einkauf unterstützt werden soll.
+      <p>Wähle eine Kategorie, die du mit deinem Einkauf unterstützen möchtest.
       <div class="row">
         <div class="col-sm-4">
           <a target="_blank" href='<?php if($shop == "amazon") {echo "http://bit.ly/amazon_kinderhilfe_modal";}
