@@ -500,7 +500,7 @@
             </a>
           </div>
           <div class="col-md-2 col-sm-3 col-xs-4 smallerpadding">
-            <a data-toggle="modal" data-target="#modaleckermann">
+            <a data-toggle="modal" data-target="#modalneckermann">
               <div class="shopcard">
                 <div class="shopimg">
                   <img class="img-responsive" src="/style/img/shops/044.png"/>
@@ -630,172 +630,164 @@
   <div class="modal fade" id="modalflaconi" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
     <!-- Include Modal --><?php $shop="flaconi"; include "../com/modal.php";?><!-- End Modal -->
   </div>
+  <!--Modal Trendfabrik -->
+  <div class="modal fade" id="modaltrendfabrik" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+    <!-- Include Modal --><?php $shop="trendfabrik"; include "../com/modal.php";?><!-- End Modal -->
+  </div>
+  <!--Modal Elbenwald -->
+  <div class="modal fade" id="modalelbenwald" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+    <!-- Include Modal --><?php $shop="elbenwald"; include "../com/modal.php";?><!-- End Modal -->
+  </div>
   <!--Modalkarstadt -->
   <div class="modal fade" id="modalkarstadt" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
     <!-- Include Modal --><?php $shop="karstadt"; include "../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalBodyshop -->
-  <div class="modal fade" id="ModalBodyshop" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalbodyshop" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php $shop="bodyshop"; include "../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalAmorelie -->
-  <div class="modal fade" id="ModalAmorelie" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalamorelie" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --> <?php $shop="amorelie"; include "../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalGymaesthetics -->
-  <div class="modal fade" id="ModalGymaesthetics" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalgymaesthetics" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php $shop="gymaesthetics"; include "../com/modal.php";?><!-- End Modal -->
   </div>
-  <!--ModalBookyourpresent -->
-  <div class="modal fade" id="ModalBookyourpresent" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
-  	<!-- Include Modal --><?php $shop="bookyourpresent"; include "../com/modal.php";?><!-- End Modal -->
-  </div>
   <!--ModalFotopuzzle -->
-  <div class="modal fade" id="ModalFotopuzzle" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalfotopuzzle" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php $shop="fotopuzzle"; include "../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalBelsonno -->
-  <div class="modal fade" id="ModalBelsonno" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalbelsonno" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php $shop="belsonno"; include "../com/modal.php";?><!-- End Modal -->
   </div>
-  <!--ModalBvb -->
-  <div class="modal fade" id="ModalBvb" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
-  	<!-- Include Modal --><?php $shop="bvb"; include "../com/modal.php";?><!-- End Modal -->
-  </div>
   <!--ModalPlanetsports -->
-  <div class="modal fade" id="ModalPlanetsports" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalplanetsports" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php $shop="planetsports"; include "../com/modal.php";?><!-- End Modal -->
   </div>
-  <!--ModalIkea -->
-  <div class="modal fade" id="ModalIkea" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
-  	<!-- Include Modal --><?php $shop="ikea"; include "../com/modal.php"; ?><!-- End Modal -->
-  </div>
   <!--ModalHome24 -->
-  <div class="modal fade" id="ModalHome24" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalhome24" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php $shop="home24"; include "../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalTechnomarkt -->
-  <div class="modal fade" id="ModalTechnomarkt" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modaltechnomarkt" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php $shop="technomarkt"; include "../com/modal.php"; ?><!-- End Modal -->
   </div>
   <!--ModalBergfreunde -->
-  <div class="modal fade" id="ModalBergfreunde" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalbergfreunde" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php $shop="bergfreunde"; include "../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalChrist -->
-  <div class="modal fade" id="ModalChrist" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalchrist" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php $shop="christ"; include "../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalBrands4friends -->
-  <div class="modal fade" id="ModalBrands4friends" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalbrands4friends" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php	$shop="brands4friends";	include "../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalCeweprint -->
-  <div class="modal fade" id="ModalCeweprint" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalceweprint" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php	$shop="ceweprint";	include "../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalDecathlon -->
-  <div class="modal fade" id="ModalDecathlon" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modaldecathlon" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php	$shop="decathlon"; include "../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalReichelt -->
-  <div class="modal fade" id="ModalReichelt" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalreichelt" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php $shop="reichelt"; include "../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalSchmuckonline -->
-  <div class="modal fade" id="ModalSchmuckonline" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalschmuckonline" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php $shop="schmuckonline"; include "../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalShopapotheke -->
-  <div class="modal fade" id="ModalShopapotheke" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalshopapotheke" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php $shop="shopapotheke"; include "../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalSportida -->
-  <div class="modal fade" id="ModalSportida" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalsportida" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php	$shop="sportida";	include "../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalVistaprint -->
-  <div class="modal fade" id="ModalVistaprint" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalvistaprint" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php	$shop="vistaprint"; include "../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalZooplus -->
-  <div class="modal fade" id="ModalZooplus" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalzooplus" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php	$shop="zooplus";	include "../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalAudible -->
-  <div class="modal fade" id="ModalAudible" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalbaudible" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php	$shop="audible";	include "../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalOrsay -->
-  <div class="modal fade" id="ModalOrsay" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalorsay" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php $shop="orsay"; include "../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalShirtinator -->
-  <div class="modal fade" id="ModalShirtinator" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalshirtinator" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php	$shop="shirtinator";	include "../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalDawanda -->
-  <div class="modal fade" id="ModalDawanda" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modaldawanda" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php $shop="dawanda"; include "../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalHunkemöller -->
-  <div class="modal fade" id="ModalHunkemöller" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalhunkemöller" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php $shop="hunkemöller"; include "../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalSpartoo -->
-  <div class="modal fade" id="ModalSpartoo" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalspartoo" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php $shop="spartoo"; include "../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalSidestep -->
-  <div class="modal fade" id="ModalSidestep" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalsidestep" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php $shop="sidestep";	include "../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalSeidensticker -->
-  <div class="modal fade" id="ModalSeidensticker" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalseidensticker" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php $shop="seidensticker"; include "../com/modal.php";?><!-- End Modal -->
   </div>
-  <!--ModalUhrenshop -->
-  <div class="modal fade" id="ModalUhrenshop" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
-  	<!-- Include Modal --><?php $shop="uhrenshop"; include "../com/modal.php";?><!-- End Modal -->
-  </div>
   <!--ModalSweetfine -->
-  <div class="modal fade" id="ModalSweetfine" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
-  	<!-- Include Modal --><?php $shop="sweet&fine"; include "../com/modal.php";?><!-- End Modal -->
+  <div class="modal fade" id="modalbokolina" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  	<!-- Include Modal --><?php $shop="bokolina"; include "../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalBokolina -->
-  <div class="modal fade" id="ModalBokolina" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
-  	<!-- Include Modal --><?php $shop="bokolina"; include "../com/modal.php"; ?><!-- End Modal -->
+  <div class="modal fade" id="modalikea" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  	<!-- Include Modal --><?php $shop="ikea"; include "../com/modal.php"; ?><!-- End Modal -->
   </div>
   <!--ModalBüroshop -->
-  <div class="modal fade" id="ModalBuroshop" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalburoshop24" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --> <?php $shop="buroshop24"; include "../com/modal.php"; ?><!-- End Modal -->
   </div>
   <!--ModalNeckermann -->
-  <div class="modal fade" id="ModalNeckermann" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalneckermann" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php $shop="neckermann"; include "../com/modal.php"; ?><!-- End Modal -->
   </div>
   <!--ModalRoller -->
-  <div class="modal fade" id="ModalRoller" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalroller" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --> <?php $shop="roller"; include "../com/modal.php"; ?><!-- End Modal -->
   </div>
   <!--ModalPostbus -->
-  <div class="modal fade" id="ModalPostbus" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalpostbus" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php $shop="postbus"; include "../com/modal.php"; ?><!-- End Modal -->
   </div>
   <!--ModalComdirect -->
-  <div class="modal fade" id="ModalComdirect" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  <div class="modal fade" id="modalcomdirect" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php $shop="comdirect"; include "../com/modal.php"; ?><!-- End Modal -->
   </div>
   <!--ModalExpedia -->
-  <div class="modal fade" id="ModalExpedia" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
-  	<!-- Include Modal --><?php $shop="expedia"; include "../com/modal.php"; ?>
+  <div class="modal fade" id="modalholidaycheck" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  	<!-- Include Modal --><?php $shop="holidaycheck"; include "../com/modal.php"; ?>
   </div>
   <!--ModalEngelhorn -->
-	<div class="modal fade" id="ModalEngelhorn" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+	<div class="modal fade" id="modalengelhorn" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php	$shop="engelhorn"; include "../com/modal.php"; ?>
   </div>
   <!--ModalMediamarkt -->
-	<div class="modal fade" id="ModalMediamarkt" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+	<div class="modal fade" id="modalmediamarkt" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php	$shop="mediamarkt"; include "../com/modal.php"; ?>
 	</div>
   <!--ModalSchalke -->

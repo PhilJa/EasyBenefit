@@ -27,7 +27,6 @@
           <h1><span>Navigation:</span><h1>
           <ul style="list-style-type:none">
             <li><a href="/doc/satzung_easybenefit.pdf">Satzung</a></li>
-            <li><a href="/newsletter">Newsletter</a></li>
             <li><a href="/kontakt">Kontakt</a></li>
             <li><a href="/impressum">Impressum</a></li>
           </ul>
@@ -38,13 +37,13 @@
             <li><a target="_blank" href="https://www.facebook.com/EasyBenefit.de"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i>Facebook</a></li>
             <li><a target="_blank" href="https://plus.google.com/+EasybenefitDe/posts"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i>Google+</a></li>
             <li><a target="_blank" href="https://twitter.com/EasyBenefit"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i></i>Twitter</a></li>
-            <li><a target="_blank" href="https://www.instagram.com/easybenefit.de"><i class="fa fa-fw fa-instagram" aria-hidden="true"></i>Instagram</a></li>
+            <li><a target="_blank" href="https://www.instagram.com/easybenefit"><i class="fa fa-fw fa-instagram" aria-hidden="true"></i>Instagram</a></li>
             <li><a target="_blank" href="https://www.youtube.com/channel/UCARh8NwICoaqPpBECYRDyXw"><i class="fa fa-fw fa-youtube-play" aria-hidden="true"></i>YouTube</a></li>
           </ul>
         </div>
         <div class="col-md-5 hidde-sm hidden-xs">
           <h1><span>Newsletter:</span><h1>
-          <p>Lust auf <b>Gutscheine</b>, <b>Aktionen</b> und vieles mehr?</br>Dann melde dich jetzt für unseren  Newsletter an!</p>
+          <p>Lust auf <b>Gutscheine</b>, <b>Aktionen</b> und vieles mehr? Dann melde dich jetzt für unseren  Newsletter an!</p>
           <!-- Begin MailChimp Signup Form -->
           <div id="mc_embed_signup">
             <form action="//easybenefit.us12.list-manage.com/subscribe/post?u=dac502ff20486257a18df4a18&amp;id=cdbacf2486" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>

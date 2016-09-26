@@ -18,18 +18,10 @@
   <!-- Navigation --><?php include "../style/common/navbar.php" ?>
 
   <!-- Page Content -->
-  <section id="breadcrumbs">
-    <div class="container">
+  <section class="nopadding">
+    <div class="container-fluid">
       <div class="row">
-        <div class="col-xs-12 col-sm-5">
-          <h1>Kontakt</h1>
-        </div>
-        <div class="col-xs-12 col-sm-7">
-          <ol class="breadcrumb">
-            <li><a href="/">Home</a></li>
-            <li class="active">Kontakt</li>
-          </ol>
-        </div>
+          <img class="img-responsive" src="/style/img/header/header_kontakt.jpg" alt="EasyBenefit.de | Tritt mit uns in Kontakt"/>
       </div><!-- /.row -->
     </div><!-- /.container -->
   </section><!-- /section -->
@@ -39,7 +31,7 @@
       <div class="row">
         <div class="col-md-9 part">
           <!-- Classic Heading -->
-  				<h1 class="eb-heading"><span>Schreib uns deine Meinung</span></h1>
+  				<h1 class="eb-heading"><span>Schreib uns</span></h1>
   				<!-- Start Contact Form -->
           <form role="form" class="contact-form" id="contactform" method="post" action="../php/send.php">
           	<input type="text" placeholder="Name" name="name" required>
@@ -66,7 +58,6 @@
   </section><!-- /section -->
 
   <!-- Footer --><?php include "../style/common/footer.php" ?>
-
   <!-- jQuery --><script src="/style/js/jquery.js"></script>
   <!-- Bootstrap Core JavaScript --><script src="/style/js/bootstrap.min.js"></script>
 </body>

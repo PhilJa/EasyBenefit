@@ -184,17 +184,17 @@
 				</div>
 				<div class="col-md-3 col-sm-3">
           <div class="projectcard">
-            <img class="img-responsive" src="/style/img/projekte/projectcard-armut.png" alt="Aktuelles Projekt zur Armutsbekämpfung bei EasyBenefit"/>
+            <img class="img-responsive" src="/style/img/projekte/projectcard-entwicklungshilfe.png" alt="Aktuelles Projekt zur Entwicklungshilfe bei EasyBenefit"/>
             <div class="projectdescription">
-              <h1>Armut</br><span>Projektsuche</span></h1>
+              <h1>Entwicklungshilfe</br><span>Projektsuche</span></h1>
               <p>Aktuell sind wir auf Suche nach einem geeignetem Projekt für diese Kategorie.</br>Vorschläge können gerne an <a href="mailto:info@easybenefit.de">info@easybenefit.de</a> gerichtet werden.</p>
             </div>
             <div class="progress-description">
-              Aktuell: <?php echo number_format($armut,2,",","."); ?>€<span class="pull-right">Ziel: <?php echo number_format($zielarmut,0,",",".") ?>€</span>
+              Aktuell: <?php echo number_format($entwicklung,2,",","."); ?>€<span class="pull-right">Ziel: <?php echo number_format($zielentwicklung,0,",",".") ?>€</span>
             </div>
             <div class="progress">
-              <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: <?php echo number_format($proarmut,0) ?>%;">
-                <span class="sr-only"><?php echo number_format($proarmut,0) ?>% finanziert</span>
+              <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: <?php echo number_format($proentwicklung,0) ?>%;">
+                <span class="sr-only"><?php echo number_format($proentwicklung,0) ?>% finanziert</span>
               </div>
             </div>
           </div>

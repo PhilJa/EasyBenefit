@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Projekte | EasyBenefit</title>
+    <title>Hilfsprojekte | EasyBenefit</title>
 
     <!-- CSS -->
     <link href="/style/css/bootstrap.min.css" rel="stylesheet">
@@ -19,18 +19,10 @@
   <!-- Navigation --><?php include "../style/common/navbar.php" ?>
 
   <!-- Page Content -->
-  <section id="breadcrumbs">
-    <div class="container">
+  <section class="nopadding">
+    <div class="container-fluid">
       <div class="row">
-        <div class="col-xs-12 col-sm-5">
-          <h1>Projekte</h1>
-        </div>
-        <div class="col-xs-12 col-sm-7">
-          <ol class="breadcrumb">
-            <li><a href="/">Home</a></li>
-            <li class="active">Projekte</li>
-          </ol>
-        </div>
+          <img class="img-responsive" src="/style/img/header/header_projekte.jpg" alt="EasyBenefit.de | Unsere Hilfsprojekte im Überblick"/>
       </div><!-- /.row -->
     </div><!-- /.container -->
   </section><!-- /section -->

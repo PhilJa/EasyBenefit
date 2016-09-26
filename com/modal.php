@@ -5,31 +5,66 @@
         elseif($shop == "runnerspoint") {echo "#007B82";}
         elseif($shop == "trendfabrik") {echo "#F77517";}
         elseif($shop == "karstadt") {echo "#003E67";}
-        elseif($shop == "bookyourpresent") {echo "#644193";}
-        elseif($shop == "bvb") {echo "#FEE600";}
         elseif($shop == "ikea") {echo "#003399";}
-        elseif($shop == "ceweprint") {echo "#E2001A";}
-        elseif($shop == "decathlon") {echo "#0071B3";}
+        elseif($shop == "ceweprint") {echo "#c31718";}
+        elseif($shop == "decathlon") {echo "#0198f1";}
         elseif($shop == "reichelt") {echo "#003570";}
         elseif($shop == "sportida") {echo "#181715";}
         elseif($shop == "seidensticker") {echo "#353336";}
         elseif($shop == "neckermann") {echo "#ED192E";}
         elseif($shop == "roller") {echo "#006BB5";}
-        elseif($shop == "postbus") {echo "#FC0";}
+        elseif($shop == "postbus") {echo "#fc0";}
+        elseif($shop == "holidaycheck") {echo "#1459a3";}
       ?>">
       <button type="button" class="close" data-dismiss="modal" aria-label="Schließen"><span aria-hidden="true">&times;</span></button>
       <img class="img-responsive img-center" style="width: 150px;"
         <?php if($shop == "amazon") {echo "src='/style/img/shops/001.jpg' alt='Amazon'";}
-          elseif($shop == "bahn") {echo "src='/style/img/shops/002.png' alt='Die Bahn'";}
+          elseif($shop == "bahn") {echo "src='/style/img/shops/002.jpg' alt='Die Bahn'";}
           elseif($shop == "docmorris") {echo "src='/style/img/shops/003.jpg' alt='DocMorris'";}
           elseif($shop == "mydays") {echo "src='/style/img/shops/004.jpg' alt='mydays'";}
           elseif($shop == "runnerspoint") {echo "src='/style/img/shops/005.jpg' alt='Runners Point'";}
           elseif($shop == "flaconi") {echo "src='/style/img/shops/006.jpg' alt='Flaconi'";}
-          elseif($shop == "xxx") {echo "src='/style/img/shops/007.png' alt='xxx'";}
-          elseif($shop == "xxx") {echo "src='/style/img/shops/008.jpg' alt='xxx'";}
+          elseif($shop == "trendfabrik") {echo "src='/style/img/shops/007.jpg' alt='Trendfabrik'";}
+          elseif($shop == "elbenwald") {echo "src='/style/img/shops/008.jpg' alt='Elbenwald'";}
           elseif($shop == "karstadt") {echo "src='/style/img/shops/009.png' alt='Karstadt'";}
-          elseif($shop == "xxxx") {echo "src='/style/img/shops/010.jpg' alt='xxx'";}
-          elseif($shop == "xxx") {echo "src='/style/img/shops/011.jpg' alt='xxx'";}
+          elseif($shop == "bodyshop") {echo "src='/style/img/shops/010.jpg' alt='The Body Shop'";}
+          elseif($shop == "amorelie") {echo "src='/style/img/shops/011.jpg' alt='Amorelie'";}
+          elseif($shop == "gymaesthetics") {echo "src='/style/img/shops/012.jpg' alt='Gymaesthetics'";}
+          elseif($shop == "fotopuzzle") {echo "src='/style/img/shops/014.png' alt='Fotopuzzle'";}
+          elseif($shop == "belsonno") {echo "src='/style/img/shops/015.jpg' alt='Belsonno'";}
+          elseif($shop == "planetsports") {echo "src='/style/img/shops/017.png' alt='Planet Sports'";}
+          elseif($shop == "home24") {echo "src='/style/img/shops/018.png' alt='Home 24'";}
+          elseif($shop == "technomarkt") {echo "src='/style/img/shops/019.png' alt='Technomarkt'";}
+          elseif($shop == "bergfreunde") {echo "src='/style/img/shops/020.png' alt='Bergfreunde'";}
+          elseif($shop == "christ") {echo "src='/style/img/shops/021.png' alt='Christ'";}
+          elseif($shop == "brands4friends") {echo "src='/style/img/shops/022.png' alt='Brands4friends'";}
+          elseif($shop == "ceweprint") {echo "src='/style/img/shops/023.png' alt='Ceweprint'";}
+          elseif($shop == "decathlon") {echo "src='/style/img/shops/024.png' alt='Decathlon'";}
+          elseif($shop == "reichelt") {echo "src='/style/img/shops/025.png' alt='Reichelt'";}
+          elseif($shop == "schmuckonline") {echo "src='/style/img/shops/026.png' alt='Schmuck online'";}
+          elseif($shop == "shopapotheke") {echo "src='/style/img/shops/027.png' alt='Shopapotheke'";}
+          elseif($shop == "sportida") {echo "src='/style/img/shops/028.png' alt='Sportida'";}
+          elseif($shop == "vistaprint") {echo "src='/style/img/shops/029.png' alt='Vistaprint'";}
+          elseif($shop == "zooplus") {echo "src='/style/img/shops/030.png' alt='Zooplus'";}
+          elseif($shop == "audible") {echo "src='/style/img/shops/031.png' alt='Audible'";}
+          elseif($shop == "orsay") {echo "src='/style/img/shops/032.png' alt='Orsay'";}
+          elseif($shop == "shirtinator") {echo "src='/style/img/shops/033.png' alt='Shirtinator'";}
+          elseif($shop == "dawanda") {echo "src='/style/img/shops/034.png' alt='Dawanda'";}
+          elseif($shop == "hunkemöller") {echo "src='/style/img/shops/035.png' alt='Hunkemöller'";}
+          elseif($shop == "spartoo") {echo "src='/style/img/shops/036.png' alt='Spartoo'";}
+          elseif($shop == "sidestep") {echo "src='/style/img/shops/037.png' alt='Sidestep'";}
+          elseif($shop == "seidensticker") {echo "src='/style/img/shops/038.png' alt='Seidensticker'";}
+          elseif($shop == "bokolina") {echo "src='/style/img/shops/041.png' alt='Bokolina'";}
+          elseif($shop == "ikea") {echo "src='/style/img/shops/042.png' alt='Ikea'";}
+          elseif($shop == "buroshop24") {echo "src='/style/img/shops/043.png' alt='Büroshop24'";}
+          elseif($shop == "neckermann") {echo "src='/style/img/shops/044.png' alt='Neckermann'";}
+          elseif($shop == "roller") {echo "src='/style/img/shops/045.gif' alt='Roller'";}
+          elseif($shop == "postbus") {echo "src='/style/img/shops/047.jpg' alt='Postbus'";}
+          elseif($shop == "comdirect") {echo "src='/style/img/shops/048.png' alt='comdirect'";}
+          elseif($shop == "holidaycheck") {echo "src='/style/img/shops/049.png' alt='Holidaycheck'";}
+          elseif($shop == "engelhorn") {echo "src='/style/img/shops/050.png' alt='Engelhorn'";}
+          elseif($shop == "mediamarkt") {echo "src='/style/img/shops/051.png' alt='Mediamarkt'";}
+          elseif($shop == "schalke04") {echo "src='/style/img/shops/052.png' alt='Schalke 04 Fanshop'";}
       ?>/>
     </div>
     <div class="modal-body">

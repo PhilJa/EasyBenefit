@@ -196,13 +196,15 @@ h4.eb-heading>span{
 	background: #fff;
 }
 .navbar-toggle {
-	margin-top: 23px !important;
-	margin-bottom: 23px !important;
-	border: 1px solid #1d2c4e;
+	margin-top: 15px !important;
+	margin-bottom: 15px !important;
+	border: 1px solid #df6309;
 	border-radius: 2px !important;
+	padding: 7px 10px !important;
 }
 .navbar-toggle .icon-bar {
 	background-color: #336ba8 !important;
+	width: 18px !important;
 }
 .navbar-collapse {
 	background-color: #fff;
@@ -215,15 +217,6 @@ h4.eb-heading>span{
 		padding-bottom: 14px;
 		font-size: 14px;
 		color: #656565;
-}
-@media (max-width: 767px) {
-	.navbar-nav>li>a {
-	    line-height: 24px;
-	}
-}
-.navbar-nav>li>a:hover{
-		color: #336ba8 !important;
-		border-bottom: 2px solid #336ba8;
 }
 /*! END NAVBAR */
 
@@ -496,6 +489,33 @@ section#home-progress {
 .shopcard .shop-description .info:hover {
 	color: #1d2c4e;
 	text-shadow: 1px 1px 2px #cdcdcd;
+}
+
+/* Tablet und Phone */
+@media (max-width: 767px) {
+	body {
+		margin-top: 60px;
+	}
+	section {
+		padding: 20px 0;
+	}
+	.navbar {
+		height: 60px;
+	}
+	.navbar-brand {
+		padding: 15px!important;
+		height: 60px;
+		line-height: 30px;
+	}
+	.navbar-brand>img {
+		height: 30px!important;
+	}
+	.navbar-nav>li>a {
+	    line-height: 24px;
+	}
+	ul.nav.navbar-nav.navbar-right {
+    border-bottom: 1px solid #cdcdcd;
+	}
 }
 
 /* Seite So funktionierts */
