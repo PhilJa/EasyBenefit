@@ -46,7 +46,7 @@
               <div class="shopimg">
                 <img class="img-responsive" src="/style/img/shops/001.jpg" alt="Bei Amazon einkaufen und kostenlos spenden"/>
               </div>
-              <div class="shop-description">3-10 %<a class="info" href="#" title="Mehr Informationen zur Zusammenarbeit mit Amazon"><i class="fa fa-info-circle" aria-hidden="true"></i></a></div>
+              <div class="shop-description">3-10 %</div>
             </div>
           </a>
         </div>
@@ -56,8 +56,7 @@
               <div class="shopimg">
                 <img class="img-responsive" src="/style/img/shops/002.jpg" alt="Bahn Tickets kaufen und kostenlos spenden"/>
               </div>
-                <div class="shop-description">1-5 €<span class="pull-right"><a class="info" href="#"><i class="fa fa-info-circle" aria-hidden="true"></i></a></span>
-              </div>
+                <div class="shop-description">1-5 €</div>
             </div>
           </a>
         </div>
@@ -67,8 +66,7 @@
               <div class="shopimg">
                 <img class="img-responsive" src="/style/img/shops/003.jpg" alt="Bei DocMorris einkaufen und kostenlos spenden"/>
               </div>
-                <div class="shop-description">  3-25 %<span class="pull-right"><a class="info" href="#"><i class="fa fa-info-circle" aria-hidden="true"></i></a></span>
-              </div>
+                <div class="shop-description">  3-25 %</div>
             </div>
           </a>
         </div>
@@ -78,8 +76,7 @@
               <div class="shopimg">
                 <img class="img-responsive" src="/style/img/shops/004.jpg" alt="Bei mydays einkaufen und kostenlos spenden"/>
               </div>
-                <div class="shop-description">6-11 %<span class="pull-right"><a class="info" href="#"><i class="fa fa-info-circle" aria-hidden="true"></i></a></span>
-              </div>
+                <div class="shop-description">6-11 %</div>
             </div>
           </a>
         </div>
@@ -89,8 +86,7 @@
               <div class="shopimg">
                 <img class="img-responsive" src="/style/img/shops/005.jpg" alt="Bei Runners Point einkaufen und kostenlos spenden"/>
               </div>
-                <div class="shop-description">4 %<span class="pull-right"><a class="info" href="#"><i class="fa fa-info-circle" aria-hidden="true"></i></a></span>
-              </div>
+                <div class="shop-description">4 %</div>
             </div>
           </a>
         </div>
@@ -100,8 +96,7 @@
               <div class="shopimg">
                 <img class="img-responsive" src="/style/img/shops/006.jpg" alt="Bei Flaconi einkaufen und kostenlos spenden"/>
               </div>
-                <div class="shop-description">7 %<span class="pull-right"><a class="info" href="#"><i class="fa fa-info-circle" aria-hidden="true"></i></a></span>
-              </div>
+                <div class="shop-description">7 %</div>
             </div>
           </a>
         </div>

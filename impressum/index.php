@@ -45,15 +45,19 @@
             Amtsgericht Mannheim</br>HRB 725585</br>USt-ID: DE307699159</br>Geschäftsführer: Philipp Jawny</br></br>
           </p>
           <h2 class="eb-heading"><span>Haftungsausschluss und Urheberschutz</span></h2>
-          <p>Auf dieser Homepage sind Links zu anderen Seiten im Internet zu finden. Für diese gilt:</br></br>
+          <p>Auf dieser Homepage sind Links zu anderen Seiten im Internet zu finden. Für diese gilt:</br>
             Wir weisen ausdrücklich darauf hin, dass wir keinerlei Einfluss auf Gestaltung oder Inhalte der gelinkten Seiten haben.
             Aus diesem Grund distanzieren wir uns ausdrücklich von allen Inhalten aller verlinkten Seiten auf dieser Homepage.
             Dies gilt für alle auf dieser Internetseite ausgebrachten Links und für alle Inhalte der Seiten, zu denen Verlinkungen führen.
-            </br></br>
+            </br>
             Alle Inhalte dieser Website sowie die Software genießen urheberrechtlichen Schutz nach internationalen Urhebergesetzen.
             Reproduktion, Vervielfältigung oder Modifikation sind sowohl ganz als auch teilweise nur mit schriftlicher Genehmigung der Gesellschaft erlaubt.
-            Jede nicht genehmigte Bearbeitung, Vervielfältigung, Verbreitung und/oder öffentliche Wiedergabe stellt einen Verstoß gegen die oben genannten rechtlichen Bestimmungen dar und wird urheberrechtlich verfolgt.
+            Jede nicht genehmigte Bearbeitung, Vervielfältigung, Verbreitung und/oder öffentliche Wiedergabe stellt einen Verstoß gegen die oben genannten rechtlichen Bestimmungen dar und wird urheberrechtlich verfolgt.</p>
+          <h2 class="eb-heading"><span>Google-Analytics Datenschutzhinweis</span></h2>
+          <p>Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google“). Google Analytics verwendet sog. „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website (einschließlich Ihrer IP-Adresse) wird an einen Server von Google in den USA übertragen und dort gespeichert. Google wird diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten für die Websitebetreiber zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen zu erbringen. Auch wird Google diese Informationen gegebenenfalls an Dritte übertragen, sofern dies gesetzlich vorgeschrieben oder soweit Dritte diese Daten im Auftrag von Google verarbeiten. Google wird in keinem Fall Ihre IP-Adresse mit anderen Daten von Google in Verbindung bringen. Sie können die Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich nutzen können. Durch die Nutzung dieser Website erklären Sie sich mit der Bearbeitung der über Sie erhobenen Daten durch Google in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.
           </p>
+          <h2 class="eb-heading"><span>Partnerprogramm Amazon EU</span></h2>
+          <p>Die EasyBenefit gemeinnützige UG (haftungsbeschränkt) ist Teilnehmer des Partnerprogramms von Amazon EU, das zur Bereitstellung eines Mediums für Websites konzipiert wurde, mittels dessen durch die Platzierung von Werbeanzeigen und Links zu Amazon.co.uk / Javari.co.uk / Amazon.de / Javari.de / de.BuyVIP.com / Amazon.fr / Javari.fr / Amazon.it / it.BuyVIP.com / Amazon.es / es.BuyVIP.com Werbekostenerstattung verdient werden kann.</p>
         </div>
       </div><!-- /.row -->
     </div><!-- /.container -->
