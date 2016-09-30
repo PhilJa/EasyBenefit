@@ -1,14 +1,8 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="keywords" content="kostenlos, gutes tun, spenden, online shopping, gemeinnützig">
-    <meta name="description" content="Über EasyBenefit.de kannst du mit jedem deiner Onlineeinkäufe kostenlos einen kleinen Betrag an eine Kategorie deiner Wahl spenden. Es sind nur 3 Klicks, die dir die Möglichkeit geben kostenlos etwas Gutes zu tun.">
-    <meta name="author" content="EasyBenefit">
-
     <title>EasyBenefit | Online einkaufen & Gutes tun.</title>
+    <!-- Analytics --><?php include_once("com/common-meta.php") ?>
 
     <!-- OG -->
   	<meta property="og:title" content="EasyBenefit.de | Online einkaufen & Gutes tun." />
@@ -17,15 +11,11 @@
   	<meta property="og:description" content="Über EasyBenefit.de kannst du mit jedem deiner Onlineeinkäufe kostenlos einen kleinen Betrag an eine Kategorie deiner Wahl spenden. Es sind nur 3 Klicks, die dir die Möglichkeit geben kostenlos etwas Gutes zu tun."/>
   	<meta property="og:image" content="http://dev.easybenefit.de/style/img/share_easybenefit.png" />
   	<meta property="fb:app_id" content="469470689893966" />
-
-    <!-- CSS -->
-    <link href="/style/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/style/css/easybenefit.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 </head>
 <body>
-  <!-- Spendenstand --><?php include "com/spendenstand.php" ?>
-  <!-- Navigation --><?php include "style/common/navbar.php" ?>
+  <!-- Analytics --><?php include_once("com/analyticstracking.php") ?>
+  <!-- Spendenstand --><?php include_once("com/spendenstand.php") ?>
+  <!-- Navigation --><?php include_once("style/common/navbar.php") ?>
 
   <!-- Page Content -->
   <section class="nopadding">
@@ -150,7 +140,7 @@
 
   <section id="home-progress">
     <div class="container">
-      <h1><b>Gemeinsam bisher gesammelt:</br><?php echo number_format($gesamt,2,",","."); ?> €</b></h1>
+      <h1><b>Gemeinsam haben wir</br><?php echo number_format($gesamt,2,",","."); ?> €</b></br> gesammelt.</h1>
       <h2>WOW! Danke für eure Unterstützung, weiter so.</h1>
     </div>
   </section>
