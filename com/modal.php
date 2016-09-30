@@ -69,7 +69,7 @@
     </div>
     <div class="modal-body">
       <h2 class="eb-heading"><span>Kategorieauswahl<span></h2>
-      <p>Wähle eine Kategorie, die du mit deinem Einkauf unterstützen möchtest.
+      <p>Wähle aus, für welche Kategorie du mit deinem Einkauf spenden möchtest. Danch wirst du zum Shop weitergeleitet.
       <div class="row">
         <div class="col-sm-4">
           <a target="_blank" href='<?php if($shop == "amazon") {echo "http://bit.ly/amazon_kinderhilfe_modal";}
@@ -193,7 +193,7 @@
             <div class="projectcard">
               <img class="img-responsive" src="/style/img/projekte/projectcard-seniorenhilfe-modal.png" alt="Spende für das aktuelle Seniorenhilfsprojekt auf EasyBenefit.de"/>
               <div class="projectdescription">
-                <h1><span>Projektsuche</span></h1>
+                <h1><span>Seniorenhilfe</span></h1>
               </div>
               <div class="progress">
                 <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: <?php echo number_format($prosenioren,0) ?>%;">
@@ -259,7 +259,7 @@
             <div class="projectcard">
               <img class="img-responsive" src="/style/img/projekte/projectcard-tierschutz-modal.png" alt="Spende für das aktuelle Tierschutzprojekt auf EasyBenefit.de"/>
               <div class="projectdescription">
-                <h1><span>Projektsuche</span></h1>
+                <h1><span>Tierschutz</span></h1>
               </div>
               <div class="progress">
                 <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: <?php echo number_format($protiere,0) ?>%;">
@@ -327,7 +327,7 @@
             <div class="projectcard">
               <img class="img-responsive" src="/style/img/projekte/projectcard-naturschutz-modal.png" alt="Spende für das aktuelle Naturschutzprojekt auf EasyBenefit.de"/>
               <div class="projectdescription">
-                <h1><span>Projektsuche</span></h1>
+                <h1><span>Naturschutz</span></h1>
               </div>
               <div class="progress">
                 <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: <?php echo number_format($pronatur,0) ?>%;">
@@ -393,7 +393,7 @@
             <div class="projectcard">
               <img class="img-responsive" src="/style/img/projekte/projectcard-entwicklungshilfe-modal.png" alt="Spende für das aktuelle Entwicklungshilfsprojekt auf EasyBenefit.de"/>
               <div class="projectdescription">
-                <h1><span>Projektsuche</span></h1>
+                <h1><span>Entwicklungshilfe</span></h1>
               </div>
               <div class="progress">
                 <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: <?php echo number_format($proentwicklung,0) ?>%;">
@@ -459,7 +459,7 @@
             <div class="projectcard">
               <img class="img-responsive" src="/style/img/projekte/projectcard-gesundheit-modal.png" alt="Spende für das aktuelle Gesundheitsprojekt auf EasyBenefit.de"/>
               <div class="projectdescription">
-                <h1><span>Projektsuche</span></h1>
+                <h1><span>Gesundheit</span></h1>
               </div>
               <div class="progress">
                 <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: <?php echo number_format($progesundheit,0) ?>%;">
@@ -527,7 +527,7 @@
             <div class="projectcard">
               <img class="img-responsive" src="/style/img/projekte/projectcard-bildung-modal.png" alt="Spende für das aktuelle Bildungsprojekt auf EasyBenefit.de"/>
               <div class="projectdescription">
-                <h1><span>Projektsuche</span></h1>
+                <h1><span>Bildung</span></h1>
               </div>
               <div class="progress">
                 <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: <?php echo number_format($probildung,0) ?>%;">
@@ -593,7 +593,7 @@
             <div class="projectcard">
               <img class="img-responsive" src="/style/img/projekte/projectcard-armut-modal.png" alt="Spende jetzt kostenlos für ein Projekt im Bereich Armutsbekämpfung"/>
               <div class="projectdescription">
-                <h1><span>Projektsuche</span></h1>
+                <h1><span>Armutsbekämpfung</span></h1>
               </div>
               <div class="progress">
                 <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: <?php echo number_format($proarmut,0) ?>%;">
@@ -659,7 +659,7 @@
             <div class="projectcard">
               <img class="img-responsive" src="/style/img/projekte/projectcard-sportsoziales-modal.png" alt="Spende jetzt kostenlos für ein Projekt im Bereich Sport & Soziales"/>
               <div class="projectdescription">
-                <h1><span>Projektsuche</span></h1>
+                <h1><span>Sport / Soziales</span></h1>
               </div>
               <div class="progress">
                 <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: <?php echo number_format($prosport,0) ?>%;">

@@ -225,6 +225,7 @@ h4.eb-heading>span{
 footer {
 	color: #fff;
 	background-image: url("../img/bg_eb_blue.jpg");
+	box-shadow: inset 0px 4px 6px rgba(0,0,0,.2);
 }
 footer h1 {
 	font-size: 18px;

@@ -6,7 +6,8 @@
     <!-- Analytics --><?php include_once("../com/common-meta.php") ?>
 </head>
 <body>
-  <!-- Navigation --><?php include "../style/common/navbar.php" ?>
+  <!-- Analytics --><?php include_once("../com/analyticstracking.php") ?>
+  <!-- Navigation --><?php include_once("../style/common/navbar.php") ?>
 
   <!-- Page Content -->
   <section class="nopadding">

@@ -5,7 +5,8 @@
     <!-- Analytics --><?php include_once("../com/common-meta.php") ?>
 </head>
 <body>
-  <!-- Spendenstand --><?php include "../com/spendenstand.php" ?>
+  <!-- Analytics --><?php include_once("../com/analyticstracking.php") ?>
+  <!-- Spendenstand --><?php include_once("../com/spendenstand.php") ?>
   <!-- Navigation --><?php include "../style/common/navbar.php" ?>
 
   <!-- Page Content -->
