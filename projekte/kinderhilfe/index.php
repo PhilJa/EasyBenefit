@@ -7,7 +7,13 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Kinderhilfe | EasyBenefit.de</title>
+    <title>Kinderhilfe | MATUMAINI for africa e.V. | EasyBenefit.de</title>
+
+    <!-- OG -->
+  	<meta property="og:title" content="EasyBenefit | MATUMAINI for africa" />
+  	<meta property="og:url" content="https://www.easybenefit.de/kinderhilfe" />
+  	<meta property="og:description" content="Gemeinsam mit dem MATUMAINI for africa e.V. unterstützt EasyBenefit das Ukweli Home of Hope Waisenhaus in Kenia (Nairobi). SPENDE JETZT, KOSTENLOS!" />
+  	<meta property="og:image" content="https://www.easybenefit.de/style/img/projekte/0001/og.png" />
 
     <!-- CSS -->
     <link href="/style/css/bootstrap.min.css" rel="stylesheet">
@@ -39,6 +45,17 @@
             Seinem Namen nach, gibt „Matumaini for Africa e.V.“ den Menschen in Afrika neue Hoffnung.
             Wir wollen durch unsere Projekte die Lebensbedingungen für bedürftige Menschen in Kenia verbessern und sie auf langfristige Sicht unterstützen.
             Die Waisen und Straßenkinder in Kasarani, einem Vorort der kenianischen Hauptstadt Nairobi, liegen uns hierbei besonders am Herzen.
+            </br></br>
+            "Wichtig ist nicht wo du bist, sondern was du tust wo du bist." (Kenianisches Sprichwort)
+            </br></br>
+            Der Vorstand des Vereins besteht aus jungen Erwachsenen, die sich mit ihren kreativen Ideen und produktiven Gedanken ehrenamtlich engagieren.
+            Durch die ehrenamtliche Mitarbeit der Mitlgieder, entstehen keinerlei Verwaltungskosten oder sonstige Ausgaben. So ist es möglich die Spenden zu 100% bei den betroffenen Personen ankommen.
+            Hilfsbedürftige Menschen in Kenia, die unverschuldet in Not geraten sind erhalte damit Hilfe zur Selbsthilfe. Vollständige Transparenz ist hierbei das höchste Gebot.
+            </br></br>
+            Die gesammelten Einnahmen dieser Kategorie gehen an das "Ukweli Home of Hope" Waisenhaus in Kenia (Nairobi). Hier werden 40 Kinder von ehrenamtlich tätigen Klosterschwestern betreut. Das gespendete Geld soll den Kindern eine bessere Zukunft ermöglichen.
+            Es wird investiert in lebensnotwendige Güter wie Essen, Schlafgelegeneheiten oder sanitäre Einrichtugnen und schafft außerdem die Möglichkeit einer Schulausbildung. All diese Aktionen werden durch den Verein Matumaini for Africa e.V. vor Ort durchgeführt.
+            </br></br>
+            Weitere Informationen findet Ihr unter <a href="http://www.matumaini-for-africa.org" alt="MATUMAINI for africa e.V.">www.matumaini-for-africa.org</a>
           </p>
         </div><!-- END main -->
         <div class="col-md-3 col-sm-4 sidebar">
@@ -58,9 +75,9 @@
           </div>
           <div class="widget">
           <h1 class="eb-heading"><span>Teilen</span></h1>
-            <a class="btn btn-sm btn-blue btn-full" href="#" role="button"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i> Facebook</a>
-            <a class="btn btn-sm btn-blue btn-full" href="#" role="button"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i></i> Twitter</a>
-            <a class="btn btn-sm btn-blue btn-full" href="#" role="button"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i> Google+</a>
+            <a class="btn btn-sm btn-blue btn-full" href="http://www.facebook.com/sharer.php?u=https://easybenefit.de/projekte/kinderhilfe" title="Auf Facebook teilen" target="_blank" role="button"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i> Facebook</a>
+            <a class="btn btn-sm btn-blue btn-full" href="https://twitter.com/share?url=https://easybenefit.de/projekte/kinderhilfe&amp;hashtags=easybenefit" role="button"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i></i> Twitter</a>
+            <a class="btn btn-sm btn-blue btn-full" href="https://plus.google.com/share?url=https://easybenefit.de/projekte/kinderhilfe" title="Auf Google+ teilen" role="button"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i> Google+</a>
           </div>
           <div class="widget">
             <h1 class="eb-heading"><span>Amazon-Bookmark</span></h1>

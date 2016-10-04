@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-    <title>Schenken & Spenden | EasyBenefit.de</title>
+    <title>Newsletter | EasyBenefit.de</title>
     <!-- Analytics --><?php include_once("../com/common-meta.php") ?>
 </head>
 <body>
@@ -12,34 +12,30 @@
   <!-- Page Content -->
   <section id="hero" class="nopadding">
     <div class="hero-img">
-      <img src="/style/img/hero/hero_test.jpg"/>
+      <img src="/style/img/bg.jpg"/>
     </div><!-- /.container -->
     <div class="container">
       <div class="hero-content">
-        <h1>Weihnachtsgeschenke kaufen</br>& kostlenlos spenden!</h1>
-        <p>Spende bis zu 15% des Kaufpreises an ein Projekt deiner Wahl.</p>
-        <a role="button" class="btn btn-blue" href="/shops" alt="Alle Partnershops von EasyBenefit.de">Unsere Partnershops</a>
+        <h1 style="color:#fff;">EasyBenefit - Newsletter</h1>
+        <p style="color:#fff;">Jetzt anmelden und immer auf dem Laufenden bleiben.</p>
       </div><!-- /.row -->
     </div><!-- /.container -->
   </section><!-- /section -->
 
-  <section id="funktion-txt">
+  <section id="newsletter-landing">
     <div class="container">
       <div class="row">
-        <div class="col-md-8">
-          <h3 class=""><span>Doppelt Freude schenken</span></h3>
-          <p>Dieses Weihnachten kannst du mehr aus deinen Geschenken machen.</br>
-            Beschenke nicht nur deine Freunde und Verwandten, sondern unterstütze mit jedem Geschenk gemeinnützige Hilfsprojekte.</br>
-            <b>Das Beste: <span style="color:#336ba8">Es ist vollkommen kostenlos und funktioniert mit nur 3 Klicks!</span></b>
-          </p>
-          <h3 class=""><span>So geht's:</span></h3>
+        <div class="col-md-6">
+          <h2>Das erwartet euch:</h2>
           <p>
-            Um bis zu 15% des Kaufpreises zu spenden, musst du einfach vor deinem Einkauf den Shop über einen Link von unserer Seite betreten.
-            Wir überlassen dir die Wahl für welche Kategorie gespednet werden soll.</br>
-            Nachdem du zu deinem Shop weitergeleitet wurdest musst du dich um nichts kümmern. Wir verteieln die Spenden so, wie Ihr es ausgewählt habt.
+            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam non
+            umy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+             Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor i
+            nvidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergre
+            n, no sea takimata sanctus est Lorem ipsum dolor sit amet.
           </p>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-6">
           <div class="row">
             <div class="col-md-6 col-sm-4 col-xs-6 smallerpadding">
               <a data-toggle="modal" data-target="#modalamazon">
@@ -117,44 +113,10 @@
         </div>
       </div>
     </div><!-- /.container -->
-  </section>
-  <section id="thema" class="nopadding">
-    <div class="container-fluid">
-      <div class="row">
-        <img src="/style/img/xmas.png" class="img-responsive"/>
-      </div>
-    </div><!-- /.container -->
   </section><!-- /section -->
 
   <!-- Footer --><?php include "../style/common/footer.php" ?>
   <script src="/style/js/jquery.js"></script>
   <script src="/style/js/bootstrap.min.js"></script>
-
-  <!-- Modals -->
-  <!--Modal Amazon -->
-  <div class="modal fade" id="modalamazon" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
-    <!-- Include Modal --><?php $shop="amazon"; include "../com/modal.php";?><!-- End Modal -->
-  </div>
-  <!--Modal mydays -->
-  <div class="modal fade" id="modalmydays" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
-    <!-- Include Modal --><?php $shop="mydays"; include "../com/modal.php";?><!-- End Modal -->
-  </div>
-  <!--Modal Flaconi -->
-  <div class="modal fade" id="modalflaconi" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
-    <!-- Include Modal --><?php $shop="flaconi"; include "../com/modal.php";?><!-- End Modal -->
-  </div>
-  <!--ModalAmorelie -->
-  <div class="modal fade" id="modalamorelie" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
-  	<!-- Include Modal --> <?php $shop="amorelie"; include "../com/modal.php";?><!-- End Modal -->
-  </div>
-  <!--ModalDawanda -->
-  <div class="modal fade" id="modaldawanda" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
-  	<!-- Include Modal --><?php $shop="dawanda"; include "../com/modal.php";?><!-- End Modal -->
-  </div>
-  <!--ModalMediamarkt -->
-	<div class="modal fade" id="modalmediamarkt" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
-  	<!-- Include Modal --><?php	$shop="mediamarkt"; include "../com/modal.php"; ?>
-	</div>
-
 </body>
 </html>
