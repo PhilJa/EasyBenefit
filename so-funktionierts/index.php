@@ -2,7 +2,7 @@
 <html lang="de">
 <head>
     <title>So funktioniert's | EasyBenefit.de</title>
-    <!-- Analytics --><?php include_once("../com/common-meta.php") ?>
+    <!-- Common Meta --><?php include_once("../com/common-meta.php") ?>
 </head>
 <body>
   <!-- Analytics --><?php include_once("../com/analyticstracking.php") ?>

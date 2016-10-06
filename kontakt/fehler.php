@@ -23,14 +23,15 @@
       <div class="row">
         <div class="col-md-9 part">
           <!-- Classic Heading -->
-  				<h1 class="eb-heading"><span>Schreib uns</span></h1>
+  				<h1 class="eb-heading"><span style="color:red">FEHLER!</span></h1>
+          <p>Leider ist ein Fehler aufgetreten. Bitte versuche es zu einem späteren Zeitpunkt erneut, oder schreibe uns eine e-Mail an <a href="mailto:info@easybenefit.de">info@easybenefit.de</a>.
   				<!-- Start Contact Form -->
           <form role="form" class="contact-form" id="contactform" method="post" action="/com/php/send.php">
           	<input type="text" placeholder="Name" name="name" required>
           	<input type="email" class="email" placeholder="E-Mail" name="email" required>
           	<input type="text" class="requiredField" placeholder="Betreff" name="subject" required>
           	<textarea rows="7" placeholder="Nachricht" name="message" required></textarea>
-            <?php if (isset($_POST['Submit'])) { echo "Glückwunsch, du konntest ein Formular abschicken"; } else {} ?> 
+            <?php if (isset($_POST['Submit'])) { echo "Glückwunsch, du konntest ein Formular abschicken"; } else {} ?>
       			<div class="btn-group">
       				<button id="submit" type="submit" class="btn btn-blue"><i class="fa fa-envelope fa-fw"></i> Absenden</button>
       				<div id="success" style="color:#34495e;"></div>

@@ -2,7 +2,7 @@
 <html lang="de">
 <head>
     <title>EasyBenefit | Online einkaufen & Gutes tun.</title>
-    <!-- Analytics --><?php include_once("com/common-meta.php") ?>
+    <!-- Common Meta --><?php include_once("com/common-meta.php") ?>
 
     <!-- OG -->
   	<meta property="og:title" content="EasyBenefit.de | Online einkaufen & Gutes tun." />

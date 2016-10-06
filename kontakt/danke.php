@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-    <title>Kontakt | EasyBenefit.de</title>
+    <title>Danke für deine Nachricht | EasyBenefit.de</title>
 
     <!-- Analytics --><?php include_once("../com/common-meta.php") ?>
 </head>
@@ -23,19 +23,8 @@
       <div class="row">
         <div class="col-md-9 part">
           <!-- Classic Heading -->
-  				<h1 class="eb-heading"><span>Schreib uns</span></h1>
-  				<!-- Start Contact Form -->
-          <form role="form" class="contact-form" id="contactform" method="post" action="/com/php/send.php">
-          	<input type="text" placeholder="Name" name="name" required>
-          	<input type="email" class="email" placeholder="E-Mail" name="email" required>
-          	<input type="text" class="requiredField" placeholder="Betreff" name="subject" required>
-          	<textarea rows="7" placeholder="Nachricht" name="message" required></textarea>
-            <?php if (isset($_POST['Submit'])) { echo "Glückwunsch, du konntest ein Formular abschicken"; } else {} ?> 
-      			<div class="btn-group">
-      				<button id="submit" type="submit" class="btn btn-blue"><i class="fa fa-envelope fa-fw"></i> Absenden</button>
-      				<div id="success" style="color:#34495e;"></div>
-      			</div>
-          </form>	<!-- End Contact Form -->
+  				<h1 class="eb-heading"><span style="color:#336ba8">DANKE!</span></h1>
+          <p>Wir haben deine Nachricht erhalten und werden uns so schnell wie möglich bei dir melden.</p>
         </div>
         <div class="col-md-3 sidebar part">
   				<h1 class="eb-heading"><span>Kontakt</span></h1>

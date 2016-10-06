@@ -1,28 +1,19 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-
-    <title>Kinderhilfe | MATUMAINI for africa e.V. | EasyBenefit.de</title>
+    <title>MATUMAINI for africa e.V. | Kinderhilfe | EasyBenefit.de</title>
+    <!-- Common Meta --><?php include_once("../com/common-meta.php") ?>
 
     <!-- OG -->
   	<meta property="og:title" content="EasyBenefit | MATUMAINI for africa" />
   	<meta property="og:url" content="https://www.easybenefit.de/kinderhilfe" />
   	<meta property="og:description" content="Gemeinsam mit dem MATUMAINI for africa e.V. unterstützt EasyBenefit das Ukweli Home of Hope Waisenhaus in Kenia (Nairobi). SPENDE JETZT, KOSTENLOS!" />
   	<meta property="og:image" content="https://www.easybenefit.de/style/img/projekte/0001/og.png" />
-
-    <!-- CSS -->
-    <link href="/style/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/style/css/easybenefit.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 </head>
 <body>
-  <?php include "../../com/spendenstand.php" ?>
-  <!-- Navigation --><?php include "../../style/common/navbar.php" ?>
+  <!-- Analytics --><?php include_once("../../com/analyticstracking.php") ?>
+  <!-- Spendenstand --><?php include_once("../../com/spendenstand.php") ?>
+  <!-- Navigation --><?php include_once("../../style/common/navbar.php") ?>
 
   <!-- Page Content -->
   <section class="nopadding">
