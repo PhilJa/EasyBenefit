@@ -3,7 +3,7 @@
 <head>
     <title>EasyBenefit | Online einkaufen & Gutes tun.</title>
     <!-- Common Meta --><?php include_once("com/common-meta.php") ?>
-
+<!-- TradeDoubler site verification 2890310 -->
     <!-- OG -->
   	<meta property="og:title" content="EasyBenefit.de | Online einkaufen & Gutes tun." />
   	<meta property="og:site_name" content="EasyBenefit.de"/>

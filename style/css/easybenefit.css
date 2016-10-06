@@ -164,8 +164,8 @@ h1.eb-heading>span{
 	padding-bottom: 6px;
 }
 h2.eb-heading, .sidebar h1.eb-heading {
-	font-size: 20px;
-	line-height: 20px;
+	font-size: 16px;
+	line-height: 16px;
 	padding-bottom: 8px;
 	margin: 0px 0 15px 0;
 }
@@ -461,6 +461,53 @@ section#home-progress {
 	background-color: #81ce01;
 }
 
+/*! shop-card */
+.shop-card {
+	border: 1px solid #cdcdcd;
+	border-radius: 6px;
+	margin-bottom: 30px;
+}
+.shop-card:hover {
+	cursor: pointer;
+}
+.shop-card img {
+	border-radius: 5px 5px 0px 0px;
+}
+.shop-card .projectdescription {
+	padding: 5px;
+}
+.shop-card .projectdescription h1{
+	font-size: 18px;
+	line-height: 20px;
+	margin: 0 0 10px 0;
+}.shop-card .projectdescription h1>span{
+	font-size: 16px;
+	font-weight: bold;
+	color: #336ba8;
+}
+.shop-card .projectdescription p{
+	font-size: 12px;
+	line-height: 14px;
+	margin: 0px
+}
+.shop-card .projectdescription .btn{
+	margin: 5px 0;
+}
+.shop-card .progress-description {
+	margin: 0px;
+	font-size: 11px;
+	color: #888888;
+	padding: 5px;
+}
+.shop-card .progress {
+	margin: 0px;
+	border-radius: 0px 0px 5px 5px!important;
+	height: 10px;
+}
+.shop-card .progress .progress-bar{
+	background-color: #336ba8;
+}
+
 .sidebar .widget {
 	margin-bottom: 30px;
 }
@@ -551,6 +598,16 @@ section#home-progress {
 	section#hero .hero-content p{
 		font-size: 14px;
 	}
+}
+/* Seite Projekt */
+section#project-site .project-header {
+	border-radius: 4px;
+	margin-bottom: 30px;
+}
+/* Seite Shop */
+section#shop-site .shop-header {
+	border-radius: 4px;
+	margin-bottom: 15px;
 }
 
 /* Seite So funktionierts */

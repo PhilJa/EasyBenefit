@@ -2,7 +2,7 @@
 <html lang="de">
 <head>
     <title>MATUMAINI for africa e.V. | Kinderhilfe | EasyBenefit.de</title>
-    <!-- Common Meta --><?php include_once("../com/common-meta.php") ?>
+    <!-- Common Meta --><?php include_once("../../com/common-meta.php") ?>
 
     <!-- OG -->
   	<meta property="og:title" content="EasyBenefit | MATUMAINI for africa" />
@@ -16,20 +16,15 @@
   <!-- Navigation --><?php include_once("../../style/common/navbar.php") ?>
 
   <!-- Page Content -->
-  <section class="nopadding">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <img class="img-responsive" src="/style/img/projekte/0001/header.jpg"/>
-        </div>
-      </div><!-- /.row -->
-    </div><!-- /.container -->
-  </section><!-- /section -->
-
-  <section id="projectcards">
+  <section id="project-site">
     <div class="container">
       <div class="row">
         <div class="col-md-9 col-sm-8">
+          <div class="row">
+            <div class="col-md-12">
+              <img class="img-responsive project-header" src="/style/img/projekte/0001/header.jpg"/>
+            </div>
+          </div><!-- /.row -->
           <h1 class="eb-heading"><span>MATUMAINI for africa e.V.</span></h1>
           <p>
             Matumaini bedeutet Hoffnung (Kwisuaheli).</br></br>
@@ -65,17 +60,17 @@
             </div>
           </div>
           <div class="widget">
-          <h1 class="eb-heading"><span>Teilen</span></h1>
-            <a class="btn btn-sm btn-blue btn-full" href="http://www.facebook.com/sharer.php?u=https://easybenefit.de/projekte/kinderhilfe" title="Auf Facebook teilen" target="_blank" role="button"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i> Facebook</a>
-            <a class="btn btn-sm btn-blue btn-full" href="https://twitter.com/share?url=https://easybenefit.de/projekte/kinderhilfe&amp;hashtags=easybenefit" role="button"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i></i> Twitter</a>
-            <a class="btn btn-sm btn-blue btn-full" href="https://plus.google.com/share?url=https://easybenefit.de/projekte/kinderhilfe" title="Auf Google+ teilen" role="button"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i> Google+</a>
-          </div>
-          <div class="widget">
-            <h1 class="eb-heading"><span>Amazon-Bookmark</span></h1>
+            <h1 class="eb-heading"><span>Amazon-Charity-Bookmark</span></h1>
             <img style="margin-bottom:10px" src="/style/img/sidebar_amazon.png" class="img-responsive img-center"/>
             <p>Setze folgenden Link als Lesezeichen in deinen Browser. So hilfst du mit jedem deiner Einkäufe zukünftig unseren Kinderhilfsprojekten.</p>
             <input style="margin-bottom:10px" value="http://bit.ly/amazon_kinderhilfe"></input>
             <a class="btn btn-xs btn-blue" href="#" role="button">Mehr erfahren</a>
+          </div>
+          <div class="widget">
+            <h1 class="eb-heading"><span>Teilen</span></h1>
+            <a class="btn btn-sm btn-blue btn-full" href="http://www.facebook.com/sharer.php?u=https://easybenefit.de/projekte/kinderhilfe" title="Auf Facebook teilen" target="_blank" role="button"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i> Facebook</a>
+            <a class="btn btn-sm btn-blue btn-full" href="https://twitter.com/share?url=https://easybenefit.de/projekte/kinderhilfe&amp;hashtags=easybenefit" role="button"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i></i> Twitter</a>
+            <a class="btn btn-sm btn-blue btn-full" href="https://plus.google.com/share?url=https://easybenefit.de/projekte/kinderhilfe" title="Auf Google+ teilen" role="button"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i> Google+</a>
           </div>
         </div><!-- END sidebar -->
       </div><!-- /.row -->

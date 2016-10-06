@@ -10,7 +10,6 @@
         elseif($shop == "decathlon") {echo "#0198f1";}
         elseif($shop == "reichelt") {echo "#003570";}
         elseif($shop == "sportida") {echo "#181715";}
-        elseif($shop == "seidensticker") {echo "#353336";}
         elseif($shop == "neckermann") {echo "#ED192E";}
         elseif($shop == "roller") {echo "#006BB5";}
         elseif($shop == "postbus") {echo "#fc0";}
