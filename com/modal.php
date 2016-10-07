@@ -72,9 +72,9 @@
       <div class="row">
         <div class="col-sm-4">
           <a target="_blank" href='<?php if($shop == "amazon") {echo "http://bit.ly/amazon_kinderhilfe_modal";}
-            elseif($shop == "bahn") {echo "href='http://partners.webmasterplan.com/click.asp?ref=711797&site=2894&type=b184&bnb=184&subid=kinder'";}
-            elseif($shop == "docmorris") {echo "href='http://partners.webmasterplan.com/click.asp?ref=711797&site=3174&type=b184&bnb=184&subid=kinder'";}
-            elseif($shop == "mydays") {echo "href='http://partners.webmasterplan.com/click.asp?ref=711797&site=3073&type=b434&bnb=434&subid=kinder'";}
+            elseif($shop == "bahn") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=2894&type=b184&bnb=184&subid=kinder";}
+            elseif($shop == "docmorris") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=3174&type=b184&bnb=184&subid=kinder";}
+            elseif($shop == "mydays") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=3073&type=b434&bnb=434&subid=kinder";}
             elseif($shop == "runnerspoint") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=7703&type=b42&bnb=42&subid=kinder";}
             elseif($shop == "flaconi") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=9069&type=b175&bnb=175&subid=kinder";}
             elseif($shop == "trendfabrik") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=8061&type=b60&bnb=60&subid=kinder";}

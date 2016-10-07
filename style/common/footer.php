@@ -41,7 +41,7 @@
             <li><a target="_blank" href="https://www.youtube.com/channel/UCARh8NwICoaqPpBECYRDyXw"><i class="fa fa-fw fa-youtube-play" aria-hidden="true"></i>YouTube</a></li>
           </ul>
         </div>
-        <div class="col-md-5 hidde-sm hidden-xs">
+        <div class="col-md-5 hidden-sm hidden-xs">
           <h1><span>Newsletter:</span><h1>
           <p>Lust auf <b>Gutscheine</b>, <b>Aktionen</b> und vieles mehr? Dann melde dich jetzt für unseren  Newsletter an!</p>
           <!-- Begin MailChimp Signup Form -->

@@ -110,6 +110,10 @@
   <script src="/style/js/bootstrap.min.js"></script>
 
   <!-- Modals -->
+  <!--Modal Trendfabrik -->
+  <div class="modal fade" id="modaltrendfabrik" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+    <!-- Include Modal --><?php $shop="trendfabrik"; include "../../com/modal.php";?><!-- End Modal -->
+  </div>
   <!--ModalOrsay -->
   <div class="modal fade" id="modalorsay" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php $shop="orsay"; include "../../com/modal.php";?><!-- End Modal -->

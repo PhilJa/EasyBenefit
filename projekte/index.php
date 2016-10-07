@@ -188,9 +188,9 @@
           <div class="widget">
             <h1 class="eb-heading"><span>Weitersagen</span></h1>
             <img class="img-responsive" src="/style/img/share_easybenefit.png" style="margin-bottom: 10px;" />
-            <a class="btn btn-sm btn-blue btn-full" href="#" role="button"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i> Facebook</a>
-            <a class="btn btn-sm btn-blue btn-full" href="#" role="button"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i></i> Twitter</a>
-            <a class="btn btn-sm btn-blue btn-full" href="#" role="button"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i> Google+</a>
+            <a class="btn btn-sm btn-blue btn-full" href="http://www.facebook.com/sharer.php?u=https://easybenefit.de" title="Auf Facebook teilen" target="_blank" role="button"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i> Facebook</a>
+            <a class="btn btn-sm btn-blue btn-full" href="https://twitter.com/share?url=https://easybenefit.de&amp;hashtags=easybenefit" role="button"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i></i> Twitter</a>
+            <a class="btn btn-sm btn-blue btn-full" href="https://plus.google.com/share?url=https://easybenefit.de" title="Auf Google+ teilen" role="button"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i> Google+</a>
           </div><!-- /.row -->
         </div><!-- END sidebar -->
 
