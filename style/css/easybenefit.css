@@ -19,7 +19,7 @@ section.border {
   border-top: 1px solid #ccc;
   border-bottom: 1px solid #ccc;}
 section.akzent {
-  background-color: #f9f9f9;}
+  background-color: #f1f3f5;}
 section.akzent h1.akzent{
 	color: #336ba8;}
 section.nopadding {
@@ -397,6 +397,7 @@ section#home-funktion .funktion-txt {
 }
 section#home-funktion .funktion-txt h2 {
   font-size: 16px;
+	font-weight: bold;
 }
 
 section#home-progress {
@@ -625,4 +626,19 @@ section#funktion-geld h3{
 
 /* Seite Newsletter */
 section#newsletter-landing {
+}
+
+/* Seite Newsletter */
+section#shop-details-header {
+	background-image: url("/style/img/hero/hero-shopdetail.jpg");
+	color: #fff;
+}
+section#shop-details-header .logo {
+	padding: 15px;
+	background-color: rgba(0,0,0,.25);
+	border: 1px solid #cdcdcd;
+}
+section#shop-details-header h1 {
+	margin-top: 40px;
+	text-shadow: 0 2px 4px rgba(0,0,0,.8);
 }

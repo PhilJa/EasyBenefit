@@ -15,4 +15,5 @@
 <!-- CSS -->
 <link href="/style/css/bootstrap.min.css" rel="stylesheet">
 <link href="/style/css/easybenefit.css" rel="stylesheet">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+<!-- Font-Awesome -->
+<script src="https://use.fontawesome.com/2ac0e5f150.js"></script>

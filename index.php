@@ -7,9 +7,9 @@
     <!-- OG -->
   	<meta property="og:title" content="EasyBenefit.de | Online einkaufen & Gutes tun." />
   	<meta property="og:site_name" content="EasyBenefit.de"/>
-  	<meta property="og:url" content="http://dev.easybenefit.de" />
+  	<meta property="og:url" content="https://easybenefit.de" />
   	<meta property="og:description" content="Über EasyBenefit.de kannst du mit jedem deiner Onlineeinkäufe kostenlos einen kleinen Betrag an eine Kategorie deiner Wahl spenden. Es sind nur 3 Klicks, die dir die Möglichkeit geben kostenlos etwas Gutes zu tun."/>
-  	<meta property="og:image" content="http://dev.easybenefit.de/style/img/share_easybenefit.png" />
+  	<meta property="og:image" content="https://easybenefit.de/style/img/og-easybenefit.png" />
   	<meta property="fb:app_id" content="469470689893966" />
 </head>
 <body>

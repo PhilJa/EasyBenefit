@@ -43,13 +43,6 @@
               </div>
             </div>
           </div>
-
-          <div class="widget">
-            <h3 class="eb-heading"><span>Teilen</span></h3>
-            <a class="btn btn-sm btn-blue btn-full" href="http://www.facebook.com/sharer.php?u=https://easybenefit.de/shops/runnerspoint" title="Auf Facebook teilen" target="_blank" role="button"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i> Facebook</a>
-            <a class="btn btn-sm btn-blue btn-full" href="https://twitter.com/share?url=https://easybenefit.de/shops/runnerspoint&amp;hashtags=easybenefit" role="button"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i></i> Twitter</a>
-            <a class="btn btn-sm btn-blue btn-full" href="https://plus.google.com/share?url=https://easybenefit.de/shops/runnerspoint" title="Auf Google+ teilen" role="button"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i> Google+</a>
-          </div><!-- /.row -->
         </div><!-- END sidebar -->
         <div class="col-md-9 col-sm-8">
           <h1 class=""><span style="color:#336ba8"><i class="fa fa-bookmark" aria-hidden="true"></i></span> Charity-Shopping bei Amazon</h1>
@@ -139,48 +132,6 @@
       </div><!-- /.row -->
     </div><!-- /.container -->
   </section><!-- /section -->
-
-  <section id="home-funktion" class="akzent border">
-    <div class="container">
-      <h1 class="akzent">So funktioniert's</h1>
-      <div class="row">
-				<div class="col-md-4 col-sm-12">
-					<div class="funktion-icon">
-						<i class="fa fa-shopping-cart fa-4x"></i>
-					</div>
-					<div class="funktion-txt">
-						<h2>1. Shop wählen</h2>
-						<p>
-							Wähle deinen Onlineshop aus der Liste unserer Partnershops.
-							Wir arbeiten bereits mit über 75+ Shops zusammen und regelmäßig kommen neue dazu.
-							Für jeden Bedarf ist etwas dabei!
-						</p>
-					</div>
-				</div>
-				<div class="col-md-4 col-sm-12">
-					<div class="funktion-icon">
-						<i class="fa fa-users fa-4x"></i>
-					</div>
-					<div class="funktion-txt">
-						<h2>2. Spendenziel aussuchen</h2>
-						<p>Du entscheidest wofür du spenden möchtest. Um dir die Auswahl zu erleichtern, sammeln wir Spenden in neun übersichtlichen Kategorien. Z.B. Kinderhilfe, Naturschutz oder Gesundheit.</p>
-					</div>
-				</div>
-				<div class="col-md-4 col-sm-12">
-					<div class="funktion-icon">
-						<i class="fa fa-heart fa-4x"></i>
-					</div>
-					<div class="funktion-txt">
-						<h2>3. Shoppen & Gutes tun</h2>
-						<p>
-							Nach deiner Auswahl leiten wir dich direkt weiter. Du musst nichts weiter tun, als wie gewohnt einzukaufen.
-							Dank deines Einkaufes erhalten wir eine Provision, welche wir an ein passendes gemeinnütziges Projekt weiterleiten.
-						</p>
-					</div>
-				</div>
-			</div>
-    </div>
-  </section>
 
   <!-- Footer --><?php include "../../style/common/footer.php" ?>
 
