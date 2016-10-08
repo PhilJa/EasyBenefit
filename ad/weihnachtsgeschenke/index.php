@@ -1,13 +1,19 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-    <title>Schenken & Spenden | EasyBenefit.de</title>
-    <!-- Common Meta --><?php include_once("../com/common-meta.php") ?>
+    <title>Weihnachtsgeschenke | EasyBenefit.de</title>
+    <!-- Common Meta --><?php include_once("../../com/common-meta.php") ?>
+
+    <!-- OG -->
+  	<meta property="og:title" content="Weihnachtsgeschenke kaufen & kostenlos bis zu 20% spenden" />
+  	<meta property="og:url" content="https://www.easybenefit.de/ad/weihnachtsgeschenke" />
+  	<meta property="og:description" content="Sobald du deinen Einkauf über einen unserer Charity-Links startest, wird automatisch ein Teil des Kaufpreises für gemeinnützige Zwecke gespendet. SPENDE JETZT, KOSTENLOS!" />
+  	<meta property="og:image" content="https://www.easybenefit.de/style/img/ad/og-001.png" />
 </head>
 <body>
-  <!-- Analytics --><?php include_once("../com/analyticstracking.php") ?>
-  <!-- Spendenstand --><?php include_once("../com/spendenstand.php") ?>
-  <!-- Navigation --><?php include_once("../style/common/navbar.php") ?>
+  <!-- Analytics --><?php include_once("../../com/analyticstracking.php") ?>
+  <!-- Spendenstand --><?php include_once("../../com/spendenstand.php") ?>
+  <!-- Navigation --><?php include_once("../../style/common/navbar.php") ?>
 
   <!-- Page Content -->
   <section id="hero" class="nopadding">
@@ -143,35 +149,34 @@
     </div><!-- /.container -->
   </section><!-- /section -->
 
-  <!-- Footer --><?php include "../style/common/footer.php" ?>
+  <!-- Footer --><?php include "../../style/common/footer.php" ?>
   <script src="/style/js/jquery.js"></script>
   <script src="/style/js/bootstrap.min.js"></script>
 
   <!-- Modals -->
   <!--Modal Amazon -->
   <div class="modal fade" id="modalamazon" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
-    <!-- Include Modal --><?php $shop="amazon"; include "../com/modal.php";?><!-- End Modal -->
+    <!-- Include Modal --><?php $shop="amazon"; include "../../com/modal.php";?><!-- End Modal -->
   </div>
   <!--Modal mydays -->
   <div class="modal fade" id="modalmydays" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
-    <!-- Include Modal --><?php $shop="mydays"; include "../com/modal.php";?><!-- End Modal -->
+    <!-- Include Modal --><?php $shop="mydays"; include "../../com/modal.php";?><!-- End Modal -->
   </div>
   <!--Modal Flaconi -->
   <div class="modal fade" id="modalflaconi" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
-    <!-- Include Modal --><?php $shop="flaconi"; include "../com/modal.php";?><!-- End Modal -->
+    <!-- Include Modal --><?php $shop="flaconi"; include "../../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalAmorelie -->
   <div class="modal fade" id="modalamorelie" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
-  	<!-- Include Modal --> <?php $shop="amorelie"; include "../com/modal.php";?><!-- End Modal -->
+  	<!-- Include Modal --> <?php $shop="amorelie"; include "../../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalDawanda -->
   <div class="modal fade" id="modaldawanda" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
-  	<!-- Include Modal --><?php $shop="dawanda"; include "../com/modal.php";?><!-- End Modal -->
+  	<!-- Include Modal --><?php $shop="dawanda"; include "../../com/modal.php";?><!-- End Modal -->
   </div>
   <!--ModalMediamarkt -->
 	<div class="modal fade" id="modalmediamarkt" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
-  	<!-- Include Modal --><?php	$shop="mediamarkt"; include "../com/modal.php"; ?>
+  	<!-- Include Modal --><?php	$shop="mediamarkt"; include "../../com/modal.php"; ?>
 	</div>
-
 </body>
 </html>

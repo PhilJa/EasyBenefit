@@ -32,7 +32,7 @@
           </ul>
         </div>
         <div class="col-md-2 col-sm-4 col-xs-6">
-          <h1><span>We are social:</span><h1>
+          <h1><span>Folgt uns:</span><h1>
           <ul style="list-style-type:none">
             <li><a target="_blank" href="https://www.facebook.com/EasyBenefit.de"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i>Facebook</a></li>
             <li><a target="_blank" href="https://plus.google.com/+EasybenefitDe/posts"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i>Google+</a></li>
