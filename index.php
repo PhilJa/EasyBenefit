@@ -36,7 +36,7 @@
               <div class="shopimg">
                 <img class="img-responsive" src="/style/img/shops/001.jpg" alt="Bei Amazon einkaufen und kostenlos spenden"/>
               </div>
-              <div class="shop-description">3-10 %</div>
+              <div class="shop-description">2-10 %<a class="info" href="/shops/amazon" title="Mehr Infromationen über Charity-Shopping bei Amazon"><i class="fa fa-question-circle-o" aria-hidden="true"></i></a></div>
             </div>
           </a>
         </div>
@@ -76,7 +76,7 @@
               <div class="shopimg">
                 <img class="img-responsive" src="/style/img/shops/005.jpg" alt="Bei Runners Point einkaufen und kostenlos spenden"/>
               </div>
-                <div class="shop-description">4 %</div>
+                <div class="shop-description">4 %<a class="info" href="/shops/runnerspoint" title="Mehr Infromationen über Charity-Shopping bei RUNNERS POINT"><i class="fa fa-question-circle-o" aria-hidden="true"></i></a></div>
             </div>
           </a>
         </div>

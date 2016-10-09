@@ -24,8 +24,15 @@ section.akzent h1.akzent{
 	color: #336ba8;}
 section.nopadding {
   padding: 0px;}
-	section.paddingx2 {
-	  padding: 80px 0px;}
+section.paddingx2 {
+  padding: 80px 0px;}
+h1, h2, h3, h4, h5 {
+	margin-top: 0px;}
+h1, h2, h3, h4, h5 {
+	margin-bottom: 25px;}
+p {
+	margin-bottom: 25px;
+}
 
 .img-center {
 	margin: 0 auto;}

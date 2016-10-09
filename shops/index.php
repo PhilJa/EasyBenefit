@@ -29,7 +29,7 @@
                   <img class="img-responsive" src="/style/img/shops/001.jpg"/>
                 </div>
                 <div class="shop-description">
-                  3-10 %<span class="pull-right"><a class="info" href="#"><i class="fa fa-info-circle" aria-hidden="true"></i></a></span>
+                  2-10 %<a class="info" href="/shops/amazon" title="Mehr Infromationen über Charity-Shopping bei Amazon"><i class="fa fa-question-circle-o" aria-hidden="true"></i></a>
                 </div>
               </div>
             </a>
@@ -77,7 +77,7 @@
                   <img class="img-responsive" src="/style/img/shops/005.jpg"/>
                 </div>
                 <div class="shop-description">
-                  4 %
+                  4 %<a class="info" href="/shops/runnerspoint" title="Mehr Infromationen über Charity-Shopping bei RUNNERS POINT"><i class="fa fa-question-circle-o" aria-hidden="true"></i></a>
                 </div>
               </div>
             </a>
