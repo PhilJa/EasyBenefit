@@ -64,6 +64,7 @@
           elseif($shop == "engelhorn") {echo "src='/style/img/shops/050.png' alt='Engelhorn'";}
           elseif($shop == "mediamarkt") {echo "src='/style/img/shops/051.png' alt='Mediamarkt'";}
           elseif($shop == "schalke04") {echo "src='/style/img/shops/052.png' alt='Schalke 04 Fanshop'";}
+          elseif($shop == "urlaubsbox") {echo "src='/style/img/shops/056/logo-small.jpg' alt='Urlaubsbox Freu dich drauf.'";}
       ?>/>
     </div>
     <div class="modal-body">
@@ -122,6 +123,7 @@
             elseif($shop == "engelhorn") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=10317&type=b7&bnb=7&subid=kinder";}
             elseif($shop == "mediamarkt") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14665&type=b78&bnb=78&subid=kinder";}
             elseif($shop == "schalke") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14980&type=b21&bnb=21&subid=kinder";}
+            elseif($shop == "urlaubsbox") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=9949&type=b10&bnb=10&subid=kinder";}
           ?>'/>
             <div class="projectcard">
               <img class="img-responsive" src="/style/img/projekte/projectcard-kinderhilfe-modal.png" alt="Spende für das aktuelle Kinderhilfsprojekt auf EasyBenefit.de"/>
@@ -188,6 +190,7 @@
     				elseif($shop == "engelhorn") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=10317&type=b7&bnb=7&subid=senioren";}
     				elseif($shop == "mediamarkt") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14665&type=b78&bnb=78&subid=senioren";}
     				elseif($shop == "schalke") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14980&type=b21&bnb=21&subid=senioren";}
+            elseif($shop == "urlaubsbox") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=9949&type=b10&bnb=10&subid=senioren";}
           ?>'/>
             <div class="projectcard">
               <img class="img-responsive" src="/style/img/projekte/projectcard-seniorenhilfe-modal.png" alt="Spende für das aktuelle Seniorenhilfsprojekt auf EasyBenefit.de"/>
@@ -254,6 +257,7 @@
     				elseif($shop == "engelhorn") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=10317&type=b7&bnb=7&subid=tiere";}
     				elseif($shop == "mediamarkt") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14665&type=b78&bnb=78&subid=tiere";}
     				elseif($shop == "schalke") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14980&type=b21&bnb=21&subid=tiere";}
+            elseif($shop == "urlaubsbox") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=9949&type=b10&bnb=10&subid=tiere";}
           ?>'/>
             <div class="projectcard">
               <img class="img-responsive" src="/style/img/projekte/projectcard-tierschutz-modal.png" alt="Spende für das aktuelle Tierschutzprojekt auf EasyBenefit.de"/>
@@ -322,6 +326,7 @@
     				elseif($shop == "engelhorn") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=10317&type=b7&bnb=7&subid=natur";}
     				elseif($shop == "mediamarkt") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14665&type=b78&bnb=78&subid=natur";}
     				elseif($shop == "schalke") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14980&type=b21&bnb=21&subid=natur";}
+            elseif($shop == "urlaubsbox") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=9949&type=b10&bnb=10&subid=natur";}
           ?>'/>
             <div class="projectcard">
               <img class="img-responsive" src="/style/img/projekte/projectcard-naturschutz-modal.png" alt="Spende für das aktuelle Naturschutzprojekt auf EasyBenefit.de"/>
@@ -388,6 +393,7 @@
     				elseif($shop == "engelhorn") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=10317&type=b7&bnb=7&subid=entwicklung";}
     				elseif($shop == "mediamarkt") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14665&type=b78&bnb=78&subid=entwicklung";}
     				elseif($shop == "schalke") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14980&type=b21&bnb=21&subid=entwicklung";}
+            elseif($shop == "urlaubsbox") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=9949&type=b10&bnb=10&subid=entwicklung";}
           ?>'/>
             <div class="projectcard">
               <img class="img-responsive" src="/style/img/projekte/projectcard-entwicklungshilfe-modal.png" alt="Spende für das aktuelle Entwicklungshilfsprojekt auf EasyBenefit.de"/>
@@ -454,6 +460,7 @@
     				elseif($shop == "engelhorn") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=10317&type=b7&bnb=7&subid=gesundheit";}
     				elseif($shop == "mediamarkt") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14665&type=b78&bnb=78&subid=gesundheit";}
     				elseif($shop == "schalke") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14980&type=b21&bnb=21&subid=gesundheit";}
+            elseif($shop == "urlaubsbox") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=9949&type=b10&bnb=10&subid=gesundheit";}
           ?>'/>
             <div class="projectcard">
               <img class="img-responsive" src="/style/img/projekte/projectcard-gesundheit-modal.png" alt="Spende für das aktuelle Gesundheitsprojekt auf EasyBenefit.de"/>
@@ -522,6 +529,7 @@
     				elseif($shop == "engelhorn") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=10317&type=b7&bnb=7&subid=bildung";}
     				elseif($shop == "mediamarkt") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14665&type=b78&bnb=78&subid=bildung";}
     				elseif($shop == "schalke") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14980&type=b21&bnb=21&subid=bildung";}
+            elseif($shop == "urlaubsbox") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=9949&type=b10&bnb=10&subid=bildung";}
           ?>'/>
             <div class="projectcard">
               <img class="img-responsive" src="/style/img/projekte/projectcard-bildung-modal.png" alt="Spende für das aktuelle Bildungsprojekt auf EasyBenefit.de"/>
@@ -538,61 +546,62 @@
         </div>
         <div class="col-sm-4">
           <a target="_blank" href='<?php if($shop == "amazon") {echo "http://bit.ly/amazon_armut_modal";}
-            elseif($shop == "bahn") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=2894&type=b184&bnb=184&subid=armut";}
-    				elseif($shop == "docmorris") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=3174&type=b184&bnb=184&subid=armut";}
-    				elseif($shop == "mydays") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=3073&type=b434&bnb=434&subid=armut";}
-  		      elseif($shop == "runnerspoint") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=7703&type=b42&bnb=42&subid=armut";}
-    				elseif($shop == "flaconi") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=9069&type=b175&bnb=175&subid=armut";}
-    				elseif($shop == "trendfabrik") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=8061&type=b60&bnb=60&subid=armut";}
-    				elseif($shop == "elbenwald") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=2952&type=b552&bnb=552&subid=armut";}
-    				elseif($shop == "karstadt") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=3720&type=b296&bnb=296&subid=armut";}
-    				elseif($shop == "bodyshop") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=7647&type=b51&bnb=51&subid=armut";}
-    				elseif($shop == "amorelie") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=12125&type=b97&bnb=97&subid=armut";}
-    				elseif($shop == "gymaesthetics") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=13807&type=b26&bnb=26&subid=armut";}
-    				elseif($shop == "bookyourpresent") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=13704&type=b21&bnb=21&subid=armut";}
-    				elseif($shop == "fotopuzzle") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=6425&type=b13&bnb=13&subid=armut";}
-    				elseif($shop == "belsonno") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=13661&type=text&tnb=2&subid=armut";}
-    				elseif($shop == "bvb") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14355&type=b46&bnb=46&subid=armut";}
-    				elseif($shop == "planetsports") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=1943&type=b71&bnb=71&subid=armut";}
-    				elseif($shop == "home24") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=7305&type=b225&bnb=225&subid=armut";}
-    				elseif($shop == "technomarkt") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=13221&type=b18&bnb=18&subid=armut";}
-    				elseif($shop == "bergfreunde") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=4108&type=text&tnb=38&subid=armut";}
-    				elseif($shop == "christ") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=9063&type=b88&bnb=88&subid=armut";}
-    				elseif($shop == "brands4friends") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=6466&type=b86&bnb=86&subid=armut";}
-    				elseif($shop == "ceweprint") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=12052&type=b2&bnb=2&subid=armut";}
-    				elseif($shop == "decathlon") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=10685&type=b7&bnb=7&subid=armut";}
-    				elseif($shop == "reichelt") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=8948&type=b1&bnb=1&subid=armut";}
-    				elseif($shop == "schmuckonline") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=13833&type=b4&bnb=4&subid=armut";}
-    				elseif($shop == "shopapotheke") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=3357&type=text&tnb=34&subid=armut";}
-    				elseif($shop == "sportida") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=13866&type=b23&bnb=23&subid=armut";}
-    				elseif($shop == "vistaprint") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=1860&type=b48&bnb=48&subid=armut";}
-    				elseif($shop == "zooplus") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=1597&type=b117&bnb=117&subid=armut";}
-    				elseif($shop == "audible") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=3582&type=b198&bnb=198&subid=armut";}
-    				elseif($shop == "orsay") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=4823&type=b3&bnb=3&subid=armut";}
-    				elseif($shop == "shirtinator") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=5156&type=b17&bnb=17&subid=armut";}
-    				elseif($shop == "dawanda") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=5571&type=b71&bnb=71&subid=armut";}
-    				elseif($shop == "hunkemöller") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=6668&type=b106&bnb=106&subid=armut";}
-    				elseif($shop == "spartoo") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=7563&type=b120&bnb=120&subid=armut";}
-    				elseif($shop == "sidestep") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=7713&type=b32&bnb=32&subid=armut";}
-    				elseif($shop == "seidensticker") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=8356&type=b81&bnb=81&subid=armut";}
-    				elseif($shop == "uhrenshop") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=10063&type=b22&bnb=22&subid=armut";}
-    				elseif($shop == "sweet&fine") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=13634&type=b14&bnb=14&subid=armut";}
-    				elseif($shop == "bokolina") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=13762&type=b41&bnb=41&subid=armut";}
-    				elseif($shop == "ikea") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14354&type=b34&bnb=34&subid=armut";}
-    				elseif($shop == "buroshop24") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=4084&type=b4&bnb=4&subid=armut";}
-    				elseif($shop == "neckermann") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=13237&type=b7&bnb=7&subid=armut";}
-    				elseif($shop == "roller") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=10010&type=b3&bnb=3&subid=armut";}
-    				elseif($shop == "postbus") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=13643&type=b61&bnb=61&subid=armut";}
-    				elseif($shop == "comdirect") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=3692&type=b73&bnb=73&subid=armut";}
-    				elseif($shop == "holidaycheck") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=7412&type=b4&bnb=4&subid=armut";}
-    				elseif($shop == "engelhorn") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=10317&type=b7&bnb=7&subid=armut";}
-    				elseif($shop == "mediamarkt") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14665&type=b78&bnb=78&subid=armut";}
-    				elseif($shop == "schalke") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14980&type=b21&bnb=21&subid=armut";}
+            elseif($shop == "bahn") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=2894&type=b184&bnb=184&subid=nothilfe";}
+    				elseif($shop == "docmorris") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=3174&type=b184&bnb=184&subid=nothilfe";}
+    				elseif($shop == "mydays") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=3073&type=b434&bnb=434&subid=nothilfe";}
+  		      elseif($shop == "runnerspoint") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=7703&type=b42&bnb=42&subid=nothilfe";}
+    				elseif($shop == "flaconi") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=9069&type=b175&bnb=175&subid=nothilfe";}
+    				elseif($shop == "trendfabrik") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=8061&type=b60&bnb=60&subid=nothilfe";}
+    				elseif($shop == "elbenwald") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=2952&type=b552&bnb=552&subid=nothilfe";}
+    				elseif($shop == "karstadt") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=3720&type=b296&bnb=296&subid=nothilfe";}
+    				elseif($shop == "bodyshop") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=7647&type=b51&bnb=51&subid=nothilfe";}
+    				elseif($shop == "amorelie") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=12125&type=b97&bnb=97&subid=nothilfe";}
+    				elseif($shop == "gymaesthetics") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=13807&type=b26&bnb=26&subid=nothilfe";}
+    				elseif($shop == "bookyourpresent") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=13704&type=b21&bnb=21&subid=nothilfe";}
+    				elseif($shop == "fotopuzzle") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=6425&type=b13&bnb=13&subid=nothilfe";}
+    				elseif($shop == "belsonno") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=13661&type=text&tnb=2&subid=nothilfe";}
+    				elseif($shop == "bvb") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14355&type=b46&bnb=46&subid=nothilfe";}
+    				elseif($shop == "planetsports") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=1943&type=b71&bnb=71&subid=nothilfe";}
+    				elseif($shop == "home24") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=7305&type=b225&bnb=225&subid=nothilfe";}
+    				elseif($shop == "technomarkt") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=13221&type=b18&bnb=18&subid=nothilfe";}
+    				elseif($shop == "bergfreunde") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=4108&type=text&tnb=38&subid=nothilfe";}
+    				elseif($shop == "christ") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=9063&type=b88&bnb=88&subid=nothilfe";}
+    				elseif($shop == "brands4friends") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=6466&type=b86&bnb=86&subid=nothilfe";}
+    				elseif($shop == "ceweprint") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=12052&type=b2&bnb=2&subid=nothilfe";}
+    				elseif($shop == "decathlon") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=10685&type=b7&bnb=7&subid=nothilfe";}
+    				elseif($shop == "reichelt") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=8948&type=b1&bnb=1&subid=nothilfe";}
+    				elseif($shop == "schmuckonline") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=13833&type=b4&bnb=4&subid=nothilfe";}
+    				elseif($shop == "shopapotheke") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=3357&type=text&tnb=34&subid=nothilfe";}
+    				elseif($shop == "sportida") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=13866&type=b23&bnb=23&subid=nothilfe";}
+    				elseif($shop == "vistaprint") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=1860&type=b48&bnb=48&subid=nothilfe";}
+    				elseif($shop == "zooplus") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=1597&type=b117&bnb=117&subid=nothilfe";}
+    				elseif($shop == "audible") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=3582&type=b198&bnb=198&subid=nothilfe";}
+    				elseif($shop == "orsay") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=4823&type=b3&bnb=3&subid=nothilfe";}
+    				elseif($shop == "shirtinator") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=5156&type=b17&bnb=17&subid=nothilfe";}
+    				elseif($shop == "dawanda") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=5571&type=b71&bnb=71&subid=nothilfe";}
+    				elseif($shop == "hunkemöller") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=6668&type=b106&bnb=106&subid=nothilfe";}
+    				elseif($shop == "spartoo") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=7563&type=b120&bnb=120&subid=nothilfe";}
+    				elseif($shop == "sidestep") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=7713&type=b32&bnb=32&subid=nothilfe";}
+    				elseif($shop == "seidensticker") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=8356&type=b81&bnb=81&subid=nothilfe";}
+    				elseif($shop == "uhrenshop") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=10063&type=b22&bnb=22&subid=nothilfe";}
+    				elseif($shop == "sweet&fine") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=13634&type=b14&bnb=14&subid=nothilfe";}
+    				elseif($shop == "bokolina") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=13762&type=b41&bnb=41&subid=nothilfe";}
+    				elseif($shop == "ikea") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14354&type=b34&bnb=34&subid=nothilfe";}
+    				elseif($shop == "buroshop24") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=4084&type=b4&bnb=4&subid=nothilfe";}
+    				elseif($shop == "neckermann") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=13237&type=b7&bnb=7&subid=nothilfe";}
+    				elseif($shop == "roller") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=10010&type=b3&bnb=3&subid=nothilfe";}
+    				elseif($shop == "postbus") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=13643&type=b61&bnb=61&subid=nothilfe";}
+    				elseif($shop == "comdirect") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=3692&type=b73&bnb=73&subid=nothilfe";}
+    				elseif($shop == "holidaycheck") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=7412&type=b4&bnb=4&subid=nothilfe";}
+    				elseif($shop == "engelhorn") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=10317&type=b7&bnb=7&subid=nothilfe";}
+    				elseif($shop == "mediamarkt") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14665&type=b78&bnb=78&subid=nothilfe";}
+    				elseif($shop == "schalke") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14980&type=b21&bnb=21&subid=nothilfe";}
+            elseif($shop == "urlaubsbox") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=9949&type=b10&bnb=10&subid=nothilfe";}
           ?>'/>
             <div class="projectcard">
               <img class="img-responsive" src="/style/img/projekte/projectcard-armut-modal.png" alt="Spende jetzt kostenlos für ein Projekt im Bereich Armutsbekämpfung"/>
               <div class="projectdescription">
-                <h1><span>Armutsbekämpfung</span></h1>
+                <h1><span>Nothilfe</span></h1>
               </div>
               <div class="progress">
                 <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: <?php echo number_format($proarmut,0) ?>%;">
@@ -654,6 +663,7 @@
     				elseif($shop == "engelhorn") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=10317&type=b7&bnb=7&subid=sport";}
     				elseif($shop == "mediamarkt") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14665&type=b78&bnb=78&subid=sport";}
     				elseif($shop == "schalke") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14980&type=b21&bnb=21&subid=sport";}
+            elseif($shop == "urlaubsbox") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=9949&type=b10&bnb=10&subid=sport";}
           ?>'/>
             <div class="projectcard">
               <img class="img-responsive" src="/style/img/projekte/projectcard-sportsoziales-modal.png" alt="Spende jetzt kostenlos für ein Projekt im Bereich Sport & Soziales"/>
@@ -722,6 +732,7 @@
         elseif($shop == "engelhorn") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=10317&type=b7&bnb=7&subid=allgemein";}
         elseif($shop == "mediamarkt") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14665&type=b78&bnb=78&subid=allgemein";}
         elseif($shop == "schalke") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=14980&type=b21&bnb=21&subid=allgemein";}
+        elseif($shop == "urlaubsbox") {echo "http://partners.webmasterplan.com/click.asp?ref=711797&site=9949&type=b10&bnb=10&subid=allgemein";}
       ?>'/>
         <button type="button" class="btn btn-blue">Spende auf alle Projekte verteilen <i class="fa fa-fw fa-heart" aria-hidden="true"></i></button>
       </a>

@@ -586,6 +586,18 @@
               </div>
             </a>
           </div>
+          <div class="col-md-2 col-sm-3 col-xs-4 smallerpadding">
+            <a data-toggle="modal" data-target="#modalurlaubsbox">
+              <div class="shopcard">
+                <div class="shopimg">
+                  <img class="img-responsive" src="/style/img/shops/056/logo-small.jpg"/>
+                </div>
+                <div class="shop-description">
+                  12 %
+                </div>
+              </div>
+            </a>
+          </div>
 
         </div><!-- END main -->
       </div><!-- /.row -->
@@ -784,6 +796,10 @@
   <!--ModalSchalke -->
 	<div class="modal fade" id="modalschalke04" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
   	<!-- Include Modal --><?php	$shop="schalke"; include "../com/modal.php"; ?>
+	</div>
+  <!--ModalSchalke -->
+	<div class="modal fade" id="modalurlaubsbox" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+  	<!-- Include Modal --><?php	$shop="urlaubsbox"; include "../com/modal.php"; ?>
 	</div>
 </body>
 </html>
