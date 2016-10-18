@@ -525,6 +525,9 @@ section#home-progress {
 	border: 1px solid #cdcdcd;
 	padding: 2px 5px;
 }
+.sidebar .widget.spendenstand p {
+	margin-bottom: 10px;
+}
 .sidebar .widget.spendenstand p span {
 	font-weight: bold;
   font-size: 26px;
@@ -648,4 +651,48 @@ section#shop-details-header .logo {
 section#shop-details-header h1 {
 	margin-top: 40px;
 	text-shadow: 0 2px 4px rgba(0,0,0,.8);
+}
+
+/* Über Uns */
+section#ueberblick {
+	background-color: rgba(0,153,229,.9);
+	color: #fff;
+	background-image: url("/style/img/bg/bg-ueberuns.jpg");
+}
+section#ueberblick h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 40px;
+	font-weight: 600;
+}
+section#ueberblick h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 22px;
+	font-weight: 600;
+}
+section#ueberblick a {
+	color: #fff !important;
+}
+section#ueberblick a:hover {
+	color: #cdcdcd !important;
+}
+section#ueberblick hr {
+	margin: 40px 0;
+}
+section#ueberblick .funktion-icon {
+  color: #fff;
+  float: left;
+  margin-top: 0px;
+}
+section#ueberblick .funktion-txt {
+  padding-left: 85px;
+}
+section#ueberblick .funktion-txt h2 {
+  font-size: 16px;
+	font-weight: bold;
+}
+
+section#shopbsp h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 40px;
+	font-weight: 600;
 }
