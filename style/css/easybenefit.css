@@ -197,6 +197,11 @@ h4.eb-heading {
 h4.eb-heading>span{
 	padding-bottom: 2px;
 }
+section.pattern {
+	background-color: #336ba8!important;
+	color: #fff!important;
+	background-image: url("/style/img/bg/pattern-1.png")!important;
+}
 
 /*! 2. NAVBAR */
 .navbar {
