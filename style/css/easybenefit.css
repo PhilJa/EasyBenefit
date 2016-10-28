@@ -198,7 +198,7 @@ h4.eb-heading>span{
 	padding-bottom: 2px;
 }
 section.pattern {
-	background-color: #336ba8!important;
+	background-color: #0759b1!important;
 	color: #fff!important;
 	background-image: url("/style/img/bg/pattern-1.png")!important;
 }
@@ -311,9 +311,6 @@ footer .bottom>.container {
 		color: #656565;
 }
 @media (max-width: 991px) {
-	.navbar-nav>li>a {
-	    line-height: 24px;
-	}
 	footer .bottom .left{
 		text-align: center;
 	}
@@ -399,13 +396,19 @@ section#lp-header p{
  margin-bottom: 30px;
 }
 
+section#home-funktion .funktion-heading {
+  text-align: center;
+	margin-bottom: 35px;
+}
+section#home-funktion .funktion-heading h1 {
+  font-weight: bold;
+}
 section#home-funktion .funktion-icon {
   color: #336ba8;
   float: left;
-  margin-top: 20px;
 }
 section#home-funktion .funktion-txt {
-  padding-left: 70px;
+  padding-left: 75px;
 }
 section#home-funktion .funktion-txt h2 {
   font-size: 16px;
@@ -413,8 +416,6 @@ section#home-funktion .funktion-txt h2 {
 }
 
 section#home-progress {
-  background: url(../img/bg_eb_blue.jpg) center top fixed;
-  color: #fff;
   text-align: center;
   text-shadow: 0px 0px 5px #000;
 }
@@ -550,17 +551,18 @@ section#home-progress {
 
 .shopcard {
 	margin-bottom: 20px;
+	border-radius: 5px 5px 0 0;
 }
 .shopcard:hover {
 	box-shadow: 2px 2px 5px #cdcdcd;
   cursor: pointer;
-	margin-top: -5px;
-	margin-bottom: 25px;
 }
 .shopcard .shopimg {
 	width: 100%;
 	border: 1px solid #cdcdcd;
 	border-bottom: 0px;
+	border-radius: 5px 5px 0 0;
+	overflow: hidden;
 }
 .shopcard img {
 	display: block;

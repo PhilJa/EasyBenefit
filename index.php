@@ -28,9 +28,13 @@
 
   <section id="home-shops">
     <div class="container">
-      <h1 class="eb-heading"><span>Beliebte Shops</span></h1>
       <div class="row">
-        <div class="col-md-2 col-sm-3 col-xs-4">
+        <div class="col-md-12 smallerpadding">
+          <h1 class="eb-heading"><span>Beliebte Shops</span><a role="button" class="btn btn-xs btn-blue pull-right" href="/shops" alt="">Weitere Shops</a></h1>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-2 col-sm-3 col-xs-4 smallerpadding">
           <a data-toggle="modal" data-target="#modalamazon" title="Spende mit deinem Einkauf bei Amazon">
             <div class="shopcard">
               <div class="shopimg">
@@ -40,7 +44,7 @@
             </div>
           </a>
         </div>
-        <div class="col-md-2 col-sm-3 col-xs-4">
+        <div class="col-md-2 col-sm-3 col-xs-4 smallerpadding">
           <a data-toggle="modal" data-target="#modalbahn" title="Spende mit dem Kauf von Bahn Tickets">
             <div class="shopcard">
               <div class="shopimg">
@@ -50,7 +54,7 @@
             </div>
           </a>
         </div>
-        <div class="col-md-2 col-sm-3 col-xs-4">
+        <div class="col-md-2 col-sm-3 col-xs-4 smallerpadding">
           <a data-toggle="modal" data-target="#modaldocmorris" title="Spende mit deinem Kauf bei Docmorris">
             <div class="shopcard">
               <div class="shopimg">
@@ -60,7 +64,7 @@
             </div>
           </a>
         </div>
-        <div class="col-md-2 col-sm-3 col-xs-4">
+        <div class="col-md-2 col-sm-3 col-xs-4 smallerpadding">
           <a data-toggle="modal" data-target="#modalmydays" title="Spende mit deinem Kauf bei mydays">
             <div class="shopcard">
               <div class="shopimg">
@@ -70,7 +74,7 @@
             </div>
           </a>
         </div>
-        <div class="col-md-2 hidden-sm col-xs-4">
+        <div class="col-md-2 hidden-sm col-xs-4 smallerpadding">
           <a data-toggle="modal" data-target="#modalrunnerspoint"  title="Spende mit deinem Kauf bei Runners Point">
             <div class="shopcard">
               <div class="shopimg">
@@ -80,7 +84,7 @@
             </div>
           </a>
         </div>
-        <div class="col-md-2 hidden-sm col-xs-4">
+        <div class="col-md-2 hidden-sm col-xs-4 smallerpadding">
           <a data-toggle="modal" data-target="#modalflaconi"  title="Spende mit deinem Kauf bei Flaconi">
             <div class="shopcard">
               <div class="shopimg">
@@ -96,8 +100,10 @@
 
   <section id="home-funktion" class="akzent border">
     <div class="container">
-      <h1 class="akzent">So funktioniert's</h1>
-      <p>Spende kostenlos mit jedem Onlineeinkauf.</br>Mit nur 3 einfachen Schritten machst du aus deinem Einkauf eine gute Tat.</p>
+      <div class="funktion-heading">
+        <h1 class="akzent">So funktioniert's</h1>
+        <p>Spende kostenlos mit jedem Online-Einkauf. Mit nur drei einfachen Schritten machst du aus deinem Einkauf eine gute Tat.</p>
+      </div>
       <div class="row">
 				<div class="col-md-4 col-sm-12">
 					<div class="funktion-icon">
@@ -134,22 +140,21 @@
 					</div>
 				</div>
 			</div>
-      <a role="button" class="btn btn-blue" href="/so-funktionierts" alt="Woher kommen die Spenden? Wie kann ich mitmachen?">Noch mehr erfahren</a>
     </div>
   </section>
 
-  <section id="home-progress">
+  <section id="home-progress" class="pattern">
     <div class="container">
-      <h1><b>Gemeinsam haben wir</br><?php echo number_format($gesamt,2,",","."); ?> €</b></br> gesammelt.</h1>
+      <h1><b><?php echo number_format($gesamt,2,",","."); ?> €</b></br>Haben wir bisher gesammelt.</h1>
       <h2>WOW! Danke für eure Unterstützung, weiter so.</h1>
     </div>
   </section>
 
   <section id="home-projekte">
     <div class="container">
-      <h1 class="eb-heading"><span>Aktuelle Projekte</span></h1>
+      <h1 class="eb-heading"><span>Projekt Highlights</span></h1>
       <div class="row">
-				<div class="col-md-3 col-sm-3">
+				<div class="col-md-3 col-sm-4">
           <div class="projectcard">
             <img class="img-responsive" src="/style/img/projekte/projectcard-kinderhilfe.png" alt="Aktuelles Kinderhilfsprojekt bei EasyBenefit"/>
             <div class="projectdescription">
@@ -167,12 +172,12 @@
             </div>
           </div>
 				</div>
-				<div class="col-md-3 col-sm-3">
+				<div class="col-md-3 col-sm-4">
           <div class="projectcard">
             <img class="img-responsive" src="/style/img/projekte/projectcard-entwicklungshilfe.png" alt="Aktuelles Projekt zur Entwicklungshilfe bei EasyBenefit"/>
             <div class="projectdescription">
-              <h1>Entwicklungshilfe</br><span>Projektsuche</span></h1>
-              <p>Aktuell sind wir auf Suche nach einem geeignetem Projekt für diese Kategorie.</br>Vorschläge können gerne an <a href="mailto:info@easybenefit.de">info@easybenefit.de</a> gerichtet werden.</p>
+              <h1>Entwicklungshilfe</br><span>2aid.org e.V.</span></h1>
+              <p>Gemeinsam mit 2aid.org wollen wir einen Flachbrunnen in Uganda bauen. Auf diese Weise können wir mehr Menschen den lebenswichtigen Zugang zu sauberem Wasser ermöglichen.</br></br>Mehr Infos folgen in Kürze.</p>
             </div>
             <div class="progress-description">
               Aktuell: <?php echo number_format($entwicklung,2,",","."); ?>€<span class="pull-right">Ziel: <?php echo number_format($zielentwicklung,0,",",".") ?>€</span>
@@ -184,7 +189,7 @@
             </div>
           </div>
 				</div>
-				<div class="col-md-3 col-sm-3">
+				<div class="col-md-3 col-sm-4">
           <div class="projectcard">
             <img class="img-responsive" src="/style/img/projekte/projectcard-tierschutz.png" alt="Aktuelles Tierschutzprojekt bei EasyBenefit"/>
             <div class="projectdescription">
@@ -201,7 +206,7 @@
             </div>
           </div>
 				</div>
-        <div class="col-md-3 col-sm-3">
+        <div class="col-md-3 hidden-sm">
           <div class="projectcard">
             <img class="img-responsive" src="/style/img/projekte/projectcard-gesundheit.png" alt="Aktuelles Gesundheitsprojekt bei EasyBenefit"/>
             <div class="projectdescription">

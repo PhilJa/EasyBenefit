@@ -20,7 +20,11 @@
 
   <section id="shopcards">
     <div class="container">
-      <div class="row"><div class="col-md-12"><h1 class="eb-heading"><span>Alle Partnershops</span></h1></div></div>
+      <div class="row">
+        <div class="col-md-12 smallerpadding">
+          <h1 class="eb-heading"><span>Alle Partnershops</span></h1>
+        </div>
+      </div>
         <div class="row">
           <div class="col-md-2 col-sm-3 col-xs-4 smallerpadding">
             <a data-toggle="modal" data-target="#modalamazon">

@@ -5,7 +5,7 @@
     <!-- Common Meta --><?php include_once("../../com/common-meta.php") ?>
 
     <!-- OG -->
-  	<meta property="og:title" content="EasyBenefit | Runnerspoint" />
+  	<meta property="og:title" content="EasyBenefit | Amazon.de" />
   	<meta property="og:url" content="https://www.easybenefit.de/shops/amazon" />
   	<meta property="og:description" content="Mit deinem Einkauf bei Amazon.de Gutes tun. Einfach deinen Einkauf über den EasyBenefit Charity-Link starten und kostenlos Geld spenden. PROBIER'S AUS!" />
   	<meta property="og:image" content="https://www.easybenefit.de/style/img/og/shops/001.png" />
@@ -16,13 +16,7 @@
   <!-- Navigation --><?php include_once("../../style/common/navbar.php") ?>
 
   <!-- Page Content -->
-  <section id="shop-header" class="nopadding">
-    <div class="container-fluid">
-      <div class="row">
-        <img class="img-responsive" src="/style/img/header/header-shopdetails.jpg"/>
-      </div><!-- /.row -->
-    </div><!-- /.container -->
-  </section><!-- /section -->
+  <section class="pattern" style="height: 60px"></section>
 
   <section id="shop-site">
     <div class="container">
@@ -32,7 +26,7 @@
             <img class="img-responsive img-center" src="/style/img/shops/001/logo.jpg" />
             <div class="projectdescription">
               <h1><span>Amazon.de</span></h1>
-              <a class="btn btn-sm btn-blue btn-full" href="http://www.facebook.com/sharer.php?u=https://easybenefit.de/projekte/kinderhilfe" title="Auf Facebook teilen" target="_blank" role="button"><b>EINKAUFEN & SPENDEN</b></a>
+              <a class="btn btn-sm btn-blue btn-full" href="http://www.facebook.com/sharer.php?u=https://easybenefit.de/projekte/kinderhilfe" data-toggle="modal" data-target="#modalamazon" title="Spende mit deinem Einkauf bei Amazon" role="button"><b>EINKAUFEN & SPENDEN</b></a>
             </div>
             <div class="progress-description">
               Pro Einkauf werden 2-10 % gespendet.
@@ -137,8 +131,12 @@
   </section>
 
   <!-- Footer --><?php include "../../style/common/footer.php" ?>
-
   <!-- jQuery --><script src="/style/js/jquery.js"></script>
   <!-- Bootstrap Core JavaScript --><script src="/style/js/bootstrap.min.js"></script>
+
+  <!-- Modals -->
+  <div class="modal fade" id="modalamazon" tabindex="-1" role="dialog" aria-labelledby="meinModalLabel">
+    <!-- Include Modal --><?php $shop="amazon"; include "../../com/modal.php";?><!-- End Modal -->
+  </div>
 </body>
 </html>

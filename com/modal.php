@@ -68,7 +68,6 @@
       ?>/>
     </div>
     <div class="modal-body">
-      <h2 class="eb-heading"><span>Kategorieauswahl<span></h2>
       <p>Wähle aus, für welche Kategorie du mit deinem Einkauf spenden möchtest. Danch wirst du zum Shop weitergeleitet.
       <div class="row">
         <div class="col-sm-4">
