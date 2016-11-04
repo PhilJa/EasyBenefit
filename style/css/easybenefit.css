@@ -12,7 +12,7 @@ body {
 	margin-top: 80px;
 	background: none;
 	font-family: opensans;
-	color: #656565 !important;}
+	color: #313131 !important;}
 section {
 	padding: 40px 0;}
 section.border {
@@ -402,6 +402,7 @@ section#home-funktion .funktion-heading {
 }
 section#home-funktion .funktion-heading h1 {
   font-weight: bold;
+	font-family: 'Montserrat', sans-serif;
 }
 section#home-funktion .funktion-icon {
   color: #336ba8;
@@ -417,7 +418,8 @@ section#home-funktion .funktion-txt h2 {
 
 section#home-progress {
   text-align: center;
-  text-shadow: 0px 0px 5px #000;
+  font-family: 'Montserrat', sans-serif;
+	font-weight: 600 !important;
 }
 
 /*! projectcard */
@@ -434,11 +436,9 @@ section#home-progress {
 }
 .projectcard {
 	border: 1px solid #cdcdcd;
-	border-radius: 6px;
+	border-radius: 5px;
+	overflow: hidden;
 	margin-bottom: 30px;
-}
-.projectcard img {
-	border-radius: 5px 5px 0px 0px;
 }
 .projectcard .projectdescription {
 	padding: 5px 8px;
@@ -468,7 +468,7 @@ section#home-progress {
 }
 .projectcard .progress {
 	margin: 0px;
-	border-radius: 0px 0px 5px 5px!important;
+	border-radius: 0px !important;
 	height: 10px;
 }
 .projectcard .progress .progress-bar{
@@ -586,12 +586,12 @@ section#home-progress {
 }
 
 /* Tablet und Phone */
-@media (max-width: 767px) {
+@media (max-width: 768px) {
 	body {
 		margin-top: 60px;
 	}
-	section {
-		padding: 20px 0;
+	section, section.paddingx2 {
+		padding: 30px 0;
 	}
 	.navbar {
 		height: 60px;
@@ -617,6 +617,14 @@ section#home-progress {
 		font-size: 14px;
 	}
 }
+
+/*Phone only*/
+@media (max-width: 480px) {
+	section#ueberblick h1 {
+		font-size: 21px !important;
+	}
+}
+
 /* Seite Projekt */
 section#project-site .project-header {
 	border-radius: 4px;
@@ -662,9 +670,6 @@ section#shop-details-header h1 {
 
 /* Über Uns */
 section#ueberblick {
-	background-color: rgba(0,153,229,.9);
-	color: #fff;
-	background-image: url("/style/img/bg/bg-ueberuns.jpg");
 }
 section#ueberblick h1 {
 	font-family: 'Montserrat', sans-serif;
@@ -673,8 +678,8 @@ section#ueberblick h1 {
 }
 section#ueberblick h2 {
 	font-family: 'Montserrat', sans-serif;
-	font-size: 22px;
-	font-weight: 600;
+	font-size: 16px;
+	font-weight: 400;
 }
 section#ueberblick a {
 	color: #fff !important;
@@ -683,7 +688,7 @@ section#ueberblick a:hover {
 	color: #cdcdcd !important;
 }
 section#ueberblick hr {
-	margin: 40px 0;
+	margin: 20px 0 40px 0;
 }
 section#ueberblick .funktion-icon {
   color: #fff;

@@ -3,7 +3,9 @@
 <head>
     <title>EasyBenefit | Online einkaufen & Gutes tun.</title>
     <!-- Common Meta --><?php include_once("com/common-meta.php") ?>
-<!-- TradeDoubler site verification 2890310 -->
+
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+
     <!-- OG -->
   	<meta property="og:title" content="EasyBenefit.de | Online einkaufen & Gutes tun." />
   	<meta property="og:site_name" content="EasyBenefit.de"/>
@@ -145,14 +147,15 @@
 
   <section id="home-progress" class="pattern">
     <div class="container">
-      <h1><b><?php echo number_format($gesamt,2,",","."); ?> €</b></br>Haben wir bisher gesammelt.</h1>
-      <h2>WOW! Danke für eure Unterstützung, weiter so.</h1>
+      <h1>Spendenstand:</h1>
+      <h1><b><?php echo number_format($gesamt,2,",","."); ?> €</b></h1>
+      <h2>WOW! Danke für eure Unterstützung, weiter so.</h2>
     </div>
   </section>
 
   <section id="home-projekte">
     <div class="container">
-      <h1 class="eb-heading"><span>Projekt Highlights</span></h1>
+      <h1 class="eb-heading"><span>Projekt Highlights</span><a role="button" class="btn btn-xs btn-blue pull-right" href="/shops" alt="Übersicht über alle aktuellen Projekte">Alle Projekte</a></h1>
       <div class="row">
 				<div class="col-md-3 col-sm-4">
           <div class="projectcard">

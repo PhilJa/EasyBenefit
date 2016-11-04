@@ -16,6 +16,8 @@
   <!-- Navigation --><?php include_once("../../style/common/navbar.php") ?>
 
   <!-- Page Content -->
+  <section class="pattern" style="height: 20px"></section>
+
   <section id="project-site">
     <div class="container">
       <div class="row">
@@ -68,9 +70,9 @@
           </div>
           <div class="widget">
             <h1 class="eb-heading"><span>Teilen</span></h1>
-            <a class="btn btn-sm btn-blue btn-full" href="http://www.facebook.com/sharer.php?u=https://easybenefit.de/projekte/kinderhilfe" title="Auf Facebook teilen" target="_blank" role="button"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i> Facebook</a>
-            <a class="btn btn-sm btn-blue btn-full" href="https://twitter.com/share?url=https://easybenefit.de/projekte/kinderhilfe&amp;hashtags=easybenefit" role="button"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i></i> Twitter</a>
-            <a class="btn btn-sm btn-blue btn-full" href="https://plus.google.com/share?url=https://easybenefit.de/projekte/kinderhilfe" title="Auf Google+ teilen" role="button"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i> Google+</a>
+            <a class="btn btn-sm btn-blue btn-full" href="http://www.facebook.com/sharer.php?u=https://easybenefit.de/projekte/entwicklungshilfe" title="Auf Facebook teilen" target="_blank" role="button"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i> Facebook</a>
+            <a class="btn btn-sm btn-blue btn-full" href="https://twitter.com/share?url=https://easybenefit.de/projekte/entwicklungshilfe&amp;hashtags=easybenefit" role="button"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i></i> Twitter</a>
+            <a class="btn btn-sm btn-blue btn-full" href="https://plus.google.com/share?url=https://easybenefit.de/projekte/entwicklungshilfe" title="Auf Google+ teilen" role="button"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i> Google+</a>
           </div>
         </div><!-- END sidebar -->
       </div><!-- /.row -->
@@ -78,7 +80,6 @@
   </section><!-- /section -->
 
   <!-- Footer --><?php include "../../style/common/footer.php" ?>
-
   <!-- jQuery --><script src="/style/js/jquery.js"></script>
   <!-- Bootstrap Core JavaScript --><script src="/style/js/bootstrap.min.js"></script>
 </body>
